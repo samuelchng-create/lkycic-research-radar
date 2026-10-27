@@ -22,6 +22,16 @@
       "links": [
         "https://www.sutd.edu.sg/lkycic/research-project-listing/design-good-public-spaces/"
       ]
+    },
+    {
+      "id": "autonomous",
+      "name": "Autonomous Mobility",
+      "description": "Human-centred autonomous mobility and just transitions",
+      "focus": "Public trust, acceptance, passenger experience, safety communication, equitable access, real-world deployments, governance, and driver and worker transitions.",
+      "query": "autonomous vehicles public trust acceptance mobility transition",
+      "newsQuery": "(\"autonomous vehicle\" OR \"driverless\" OR \"robotaxi\" OR \"self-driving\" OR \"autonomous shuttle\")",
+      "terms": "trust,acceptance,passenger,experience,safety,transparency,accessibility,equity,worker,driver,employment,transition,policy,regulation,pilot,deployment,public transport",
+      "links": []
     }
   ],
   "items": [
@@ -129,7 +139,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.103059"
     },
     {
@@ -151,7 +161,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s42087-026-00674-3"
     },
     {
@@ -174,7 +184,7 @@
       ],
       "reason": "Matches project interests: heat, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.5194/ems2026-534"
     },
     {
@@ -196,7 +206,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s43621-026-04684-7"
     },
     {
@@ -218,7 +228,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.jeem.2026.103299"
     },
     {
@@ -240,7 +250,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1061/9780784487006.070"
     },
     {
@@ -262,7 +272,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.102881"
     },
     {
@@ -283,7 +293,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.59877/cxoh7334"
     },
     {
@@ -305,7 +315,7 @@
       ],
       "reason": "Matches project interests: heat, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.66506/essp.122"
     },
     {
@@ -327,7 +337,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s44327-026-00319-8"
     },
     {
@@ -350,7 +360,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.102905"
     },
     {
@@ -372,7 +382,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1038/s42949-026-00441-x"
     },
     {
@@ -394,7 +404,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.scs.2026.107298"
     },
     {
@@ -415,7 +425,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1201/9781032636948-7"
     },
     {
@@ -440,7 +450,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, household, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.3390/app16157742"
     },
     {
@@ -464,7 +474,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s12273-026-1454-8"
     },
     {
@@ -486,7 +496,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s41207-026-01201-0"
     },
     {
@@ -512,7 +522,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation, vulnerable, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s11524-026-01096-w"
     },
     {
@@ -533,7 +543,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.102945"
     },
     {
@@ -555,7 +565,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.68065/joccd.05.01.118"
     },
     {
@@ -577,7 +587,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1080/01944363.2026.2695381"
     },
     {
@@ -601,7 +611,7 @@
       ],
       "reason": "Matches project interests: heat, cooling, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s44327-026-00273-5"
     },
     {
@@ -622,7 +632,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.22541/essoar.15010392/v1"
     },
     {
@@ -646,7 +656,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/s41207-026-01162-4"
     },
     {
@@ -668,7 +678,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1080/19475705.2026.2729651"
     },
     {
@@ -689,7 +699,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.103087"
     },
     {
@@ -711,7 +721,7 @@
       ],
       "reason": "Matches project interests: heat, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.ufug.2026.129565"
     },
     {
@@ -733,7 +743,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1007/978-3-032-30527-5_27"
     },
     {
@@ -755,7 +765,7 @@
       ],
       "reason": "Matches project interests: heat, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.31235/osf.io/72h5v_v1"
     },
     {
@@ -776,7 +786,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.64822/jrusd.v2i1.42"
     },
     {
@@ -797,7 +807,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.uclim.2026.103123"
     },
     {
@@ -820,7 +830,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.1016/j.scs.2026.107289"
     },
     {
@@ -843,7 +853,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.665Z",
       "key": "heat|10.3389/fclim.2026.1873994"
     },
     {
@@ -867,7 +877,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.666Z",
       "key": "heat|10.3390/atmos17050470"
     },
     {
@@ -888,7 +898,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:14:55.279Z",
+      "seen": "2026-10-27T03:44:24.666Z",
       "key": "heat|10.36334/modsim2025.g06.imran"
     },
     {
@@ -912,7 +922,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.54691/x3hvsa55"
     },
     {
@@ -934,7 +944,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.1016/j.scs.2026.107673"
     },
     {
@@ -955,7 +965,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.1080/13574809.2026.2703645"
     },
     {
@@ -977,7 +987,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.59784/glosains.v7i5.954"
     },
     {
@@ -999,7 +1009,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.1057/s41289-026-00345-3"
     },
     {
@@ -1022,7 +1032,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.20944/preprints202606.1252.v1"
     },
     {
@@ -1044,7 +1054,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.3389/fbuil.2026.1880251"
     },
     {
@@ -1065,7 +1075,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.027Z",
       "key": "space|10.3390/urbansci10100608"
     },
     {
@@ -1087,7 +1097,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.69913/udj.2026.08.8.2.56"
     },
     {
@@ -1109,7 +1119,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1177/12063312261446163"
     },
     {
@@ -1131,7 +1141,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.20944/preprints202607.0920.v1"
     },
     {
@@ -1152,7 +1162,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.21608/njace.2024.325514.1013"
     },
     {
@@ -1178,7 +1188,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community, wellbeing, programming",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.21203/rs.3.rs-9870890/v1"
     },
     {
@@ -1200,7 +1210,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.924Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.69913/udj.2026.08.8.2.274"
     },
     {
@@ -1222,7 +1232,7 @@
       ],
       "reason": "Matches project interests: social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.3389/fpubh.2026.1892114"
     },
     {
@@ -1245,7 +1255,7 @@
       ],
       "reason": "Matches project interests: public space, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.3390/su18125844"
     },
     {
@@ -1266,7 +1276,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1080/01426397.2026.2712901"
     },
     {
@@ -1290,7 +1300,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.32891/jps.v10i2.1880"
     },
     {
@@ -1311,7 +1321,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.32891/jps.v11i1.1888"
     },
     {
@@ -1332,7 +1342,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.3390/urbansci10060332"
     },
     {
@@ -1353,7 +1363,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1080/07360932.2026.2683340"
     },
     {
@@ -1374,7 +1384,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1080/13574809.2026.2726305"
     },
     {
@@ -1396,7 +1406,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.22373/ijes.v4i1.10045"
     },
     {
@@ -1418,7 +1428,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1016/j.apgeog.2026.104097"
     },
     {
@@ -1440,7 +1450,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.21203/rs.3.rs-9560908/v1"
     },
     {
@@ -1463,7 +1473,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.38027/iccaua2026en0130"
     },
     {
@@ -1485,7 +1495,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1080/23311886.2026.2683739"
     },
     {
@@ -1507,7 +1517,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1016/j.cities.2026.107021"
     },
     {
@@ -1526,7 +1536,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1186/s12889-026-27750-1"
     },
     {
@@ -1549,7 +1559,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.21203/rs.3.rs-10509201/v1"
     },
     {
@@ -1570,7 +1580,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.69913/udj.2026.08.8.2.176"
     },
     {
@@ -1591,7 +1601,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.4013/sdrj.2025.181.05"
     },
     {
@@ -1614,7 +1624,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.1016/j.ugj.2026.05.004"
     },
     {
@@ -1638,7 +1648,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.18502/kss.v11i4.21249"
     },
     {
@@ -1660,8 +1670,27 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.925Z",
+      "seen": "2026-10-27T03:44:25.028Z",
       "key": "space|10.55927/fjas.v5i5.60"
+    },
+    {
+      "title": "Minneapolis Mayor Jacob Frey vetoes driverless rideshare ordinance - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2NDdDZoRWEwbTE5OEZjQVM5WC1wTC1Bb19adkpFQU5ab1l2dDY5SlNmdnpibm9sU2hTS2FiTG5NWUJqZDQ0Nmg0OFBtNkxvRF92TWJncVlzeDNheDBqVUNQbExQb3paNXAycVc0aklaNkVjcFAwNUw0OGljcE1rVWg1YktHTUNtSG5ZTzgwZGYybVIxY0g4d3FMNUVwc1FzX2htQTFRRGxSZw?oc=5",
+      "date": "2026-10-02",
+      "publisher": "CBS News",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2NDdDZoRWEwbTE5OEZjQVM5WC1wTC1Bb19adkpFQU5ab1l2dDY5SlNmdnpibm9sU2hTS2FiTG5NWUJqZDQ0Nmg0OFBtNkxvRF92TWJncVlzeDNheDBqVUNQbExQb3paNXAycVc0aklaNkVjcFAwNUw0OGljcE1rVWg1YktHTUNtSG5ZTzgwZGYybVIxY0g4d3FMNUVwc1FzX2htQTFRRGxSZw?oc=5",
+      "project": "autonomous",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "driver"
+      ],
+      "reason": "Matches project interests: driver",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:44:25.351Z",
+      "key": "autonomous|https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2NDdDZoRWEwbTE5OEZjQVM5WC1wTC1Bb19adkpFQU5ab1l2dDY5SlNmdnpibm9sU2hTS2FiTG5NWUJqZDQ0Nmg0OFBtNkxvRF92TWJncVlzeDNheDBqVUNQbExQb3paNXAycVc0aklaNkVjcFAwNUw0OGljcE1rVWg1YktHTUNtSG5ZTzgwZGYybVIxY0g4d3FMNUVwc1FzX2htQTFRRGxSZw?oc=5"
     }
   ],
   "checks": [
@@ -1684,15 +1713,15 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:14:55.279Z"
+      "checkedAt": "2026-10-27T03:44:24.666Z"
     },
     {
       "project": "space",
       "checks": [
         {
-          "source": "Crossref",
-          "ok": false,
-          "error": "HTTP 429"
+          "source": "Google News · practice discovery",
+          "ok": true,
+          "count": 0
         },
         {
           "source": "Google News · project discovery",
@@ -1700,14 +1729,35 @@
           "count": 1
         },
         {
+          "source": "Crossref",
+          "ok": true,
+          "count": 100
+        }
+      ],
+      "checkedAt": "2026-10-27T03:44:25.028Z"
+    },
+    {
+      "project": "autonomous",
+      "checks": [
+        {
+          "source": "Crossref",
+          "ok": false,
+          "error": "HTTP 429"
+        },
+        {
           "source": "Google News · practice discovery",
           "ok": true,
           "count": 0
+        },
+        {
+          "source": "Google News · project discovery",
+          "ok": true,
+          "count": 1
         }
       ],
-      "checkedAt": "2026-10-27T03:14:55.644Z"
+      "checkedAt": "2026-10-27T03:44:25.351Z"
     }
   ],
-  "generatedAt": "2026-10-27T03:14:55.644Z",
+  "generatedAt": "2026-10-27T03:44:25.351Z",
   "liveAttempted": true
 }
