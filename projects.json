@@ -1,0 +1,25 @@
+[
+  {
+    "id": "heat",
+    "name": "Urban Heat",
+    "description": "Staying Cool + Climate Resilient Citizenry",
+    "focus": "Equitable heat adaptation, low-income households, community interventions, lived experience and climate action.",
+    "query": "urban heat community adaptation",
+    "terms": "heat,thermal,cooling,adaptation,vulnerable,household,behaviour,community,resilience",
+    "links": [
+      "https://www.sutd.edu.sg/lkycic/research-project-listing/staying-cool-strengthening-the-heat-resilience-of-vulnerable-communities/",
+      "https://www.sutd.edu.sg/lkycic/research-project-listing/leveraging-shared-experience-of-urban-heat-and-bridging-spatial-temporal-dissonance-towards-a-climate-resilient-citizenry-in-singapore/"
+    ]
+  },
+  {
+    "id": "space",
+    "name": "Public Space",
+    "description": "Design Good Public Spaces",
+    "focus": "Inclusive design and programming, social connection, biopsychosocial outcomes, citizen science, VR and generative design.",
+    "query": "public space urban design social interaction",
+    "terms": "public space,placemaking,inclusive,social,community,wellbeing,citizen science,virtual reality,generative,programming",
+    "links": [
+      "https://www.sutd.edu.sg/lkycic/research-project-listing/design-good-public-spaces/"
+    ]
+  }
+]
