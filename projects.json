@@ -31,5 +31,17 @@
     "newsQuery": "(\"autonomous vehicle\" OR \"driverless\" OR \"robotaxi\" OR \"self-driving\" OR \"autonomous shuttle\")",
     "terms": "trust,acceptance,passenger,experience,safety,transparency,accessibility,equity,worker,driver,employment,transition,policy,regulation,pilot,deployment,public transport",
     "links": []
+  },
+  {
+    "id": "hubs",
+    "name": "Co-located Community Hubs",
+    "description": "Social capital, community capacity and integrated community infrastructure",
+    "focus": "How co-located services, amenities and activities shape interaction, trust, belonging, social health and wellbeing. Track hub design, programming, governance, inclusive access, public-life observation and evaluation methods.",
+    "query": "community hubs social capital community centres social infrastructure",
+    "newsQuery": "(\"community hub\" OR \"community hubs\" OR \"co-located\" OR \"colocated\" OR \"integrated community centre\" OR \"integrated community center\" OR \"social infrastructure\")",
+    "terms": "co-located,colocated,community hub,community centre,community center,social capital,community capacity,trust,belonging,social cohesion,social connection,wellbeing,inclusion,governance,programming,public life,observation,evaluation",
+    "links": [
+      "https://www.sutd.edu.sg/lkycic/research-project-listing/impact-of-co-located-community-hubs-on-social-capital-and-community-capacities-evaluation-framework-and-development-of-recommendations/"
+    ]
   }
 ]
