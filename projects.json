@@ -21,5 +21,15 @@
     "links": [
       "https://www.sutd.edu.sg/lkycic/research-project-listing/design-good-public-spaces/"
     ]
+  },
+  {
+    "id": "autonomous",
+    "name": "Autonomous Mobility",
+    "description": "Human-centred autonomous mobility and just transitions",
+    "focus": "Public trust, acceptance, passenger experience, safety communication, equitable access, real-world deployments, governance, and driver and worker transitions.",
+    "query": "autonomous vehicles public trust acceptance mobility transition",
+    "newsQuery": "(\"autonomous vehicle\" OR \"driverless\" OR \"robotaxi\" OR \"self-driving\" OR \"autonomous shuttle\")",
+    "terms": "trust,acceptance,passenger,experience,safety,transparency,accessibility,equity,worker,driver,employment,transition,policy,regulation,pilot,deployment,public transport",
+    "links": []
   }
 ]
