@@ -32,6 +32,18 @@
       "newsQuery": "(\"autonomous vehicle\" OR \"driverless\" OR \"robotaxi\" OR \"self-driving\" OR \"autonomous shuttle\")",
       "terms": "trust,acceptance,passenger,experience,safety,transparency,accessibility,equity,worker,driver,employment,transition,policy,regulation,pilot,deployment,public transport",
       "links": []
+    },
+    {
+      "id": "hubs",
+      "name": "Co-located Community Hubs",
+      "description": "Social capital, community capacity and integrated community infrastructure",
+      "focus": "How co-located services, amenities and activities shape interaction, trust, belonging, social health and wellbeing. Track hub design, programming, governance, inclusive access, public-life observation and evaluation methods.",
+      "query": "community hubs social capital community centres social infrastructure",
+      "newsQuery": "(\"community hub\" OR \"community hubs\" OR \"co-located\" OR \"colocated\" OR \"integrated community centre\" OR \"integrated community center\" OR \"social infrastructure\")",
+      "terms": "co-located,colocated,community hub,community centre,community center,social capital,community capacity,trust,belonging,social cohesion,social connection,wellbeing,inclusion,governance,programming,public life,observation,evaluation",
+      "links": [
+        "https://www.sutd.edu.sg/lkycic/research-project-listing/impact-of-co-located-community-hubs-on-social-capital-and-community-capacities-evaluation-framework-and-development-of-recommendations/"
+      ]
     }
   ],
   "items": [
@@ -139,7 +151,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.103059"
     },
     {
@@ -161,7 +173,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s42087-026-00674-3"
     },
     {
@@ -184,7 +196,7 @@
       ],
       "reason": "Matches project interests: heat, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.5194/ems2026-534"
     },
     {
@@ -206,7 +218,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s43621-026-04684-7"
     },
     {
@@ -228,7 +240,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.jeem.2026.103299"
     },
     {
@@ -250,7 +262,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1061/9780784487006.070"
     },
     {
@@ -272,7 +284,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.102881"
     },
     {
@@ -293,7 +305,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.59877/cxoh7334"
     },
     {
@@ -315,7 +327,7 @@
       ],
       "reason": "Matches project interests: heat, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.66506/essp.122"
     },
     {
@@ -337,7 +349,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s44327-026-00319-8"
     },
     {
@@ -360,7 +372,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.102905"
     },
     {
@@ -382,7 +394,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1038/s42949-026-00441-x"
     },
     {
@@ -404,7 +416,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.scs.2026.107298"
     },
     {
@@ -425,7 +437,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1201/9781032636948-7"
     },
     {
@@ -450,7 +462,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, household, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.3390/app16157742"
     },
     {
@@ -474,7 +486,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s12273-026-1454-8"
     },
     {
@@ -496,7 +508,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s41207-026-01201-0"
     },
     {
@@ -522,7 +534,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation, vulnerable, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s11524-026-01096-w"
     },
     {
@@ -543,7 +555,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.102945"
     },
     {
@@ -565,7 +577,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.68065/joccd.05.01.118"
     },
     {
@@ -587,7 +599,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1080/01944363.2026.2695381"
     },
     {
@@ -611,7 +623,7 @@
       ],
       "reason": "Matches project interests: heat, cooling, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s44327-026-00273-5"
     },
     {
@@ -632,7 +644,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.22541/essoar.15010392/v1"
     },
     {
@@ -656,7 +668,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/s41207-026-01162-4"
     },
     {
@@ -678,7 +690,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1080/19475705.2026.2729651"
     },
     {
@@ -699,7 +711,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.103087"
     },
     {
@@ -721,7 +733,7 @@
       ],
       "reason": "Matches project interests: heat, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.ufug.2026.129565"
     },
     {
@@ -743,7 +755,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1007/978-3-032-30527-5_27"
     },
     {
@@ -765,7 +777,7 @@
       ],
       "reason": "Matches project interests: heat, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.31235/osf.io/72h5v_v1"
     },
     {
@@ -786,7 +798,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.64822/jrusd.v2i1.42"
     },
     {
@@ -807,7 +819,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.uclim.2026.103123"
     },
     {
@@ -830,7 +842,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.1016/j.scs.2026.107289"
     },
     {
@@ -853,7 +865,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.665Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.3389/fclim.2026.1873994"
     },
     {
@@ -877,7 +889,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.666Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.3390/atmos17050470"
     },
     {
@@ -898,7 +910,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:24.666Z",
+      "seen": "2026-10-27T03:47:58.406Z",
       "key": "heat|10.36334/modsim2025.g06.imran"
     },
     {
@@ -922,7 +934,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.54691/x3hvsa55"
     },
     {
@@ -944,7 +956,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1016/j.scs.2026.107673"
     },
     {
@@ -965,7 +977,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1080/13574809.2026.2703645"
     },
     {
@@ -987,7 +999,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.59784/glosains.v7i5.954"
     },
     {
@@ -1009,7 +1021,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1057/s41289-026-00345-3"
     },
     {
@@ -1032,7 +1044,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.20944/preprints202606.1252.v1"
     },
     {
@@ -1054,7 +1066,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.3389/fbuil.2026.1880251"
     },
     {
@@ -1075,7 +1087,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.027Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.3390/urbansci10100608"
     },
     {
@@ -1097,7 +1109,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.69913/udj.2026.08.8.2.56"
     },
     {
@@ -1119,7 +1131,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1177/12063312261446163"
     },
     {
@@ -1141,7 +1153,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.20944/preprints202607.0920.v1"
     },
     {
@@ -1162,7 +1174,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.21608/njace.2024.325514.1013"
     },
     {
@@ -1188,7 +1200,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community, wellbeing, programming",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.21203/rs.3.rs-9870890/v1"
     },
     {
@@ -1210,7 +1222,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.69913/udj.2026.08.8.2.274"
     },
     {
@@ -1232,7 +1244,7 @@
       ],
       "reason": "Matches project interests: social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.3389/fpubh.2026.1892114"
     },
     {
@@ -1255,7 +1267,7 @@
       ],
       "reason": "Matches project interests: public space, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.3390/su18125844"
     },
     {
@@ -1276,7 +1288,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1080/01426397.2026.2712901"
     },
     {
@@ -1300,7 +1312,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.32891/jps.v10i2.1880"
     },
     {
@@ -1321,7 +1333,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.32891/jps.v11i1.1888"
     },
     {
@@ -1342,7 +1354,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.3390/urbansci10060332"
     },
     {
@@ -1363,7 +1375,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1080/07360932.2026.2683340"
     },
     {
@@ -1384,7 +1396,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1080/13574809.2026.2726305"
     },
     {
@@ -1406,7 +1418,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.22373/ijes.v4i1.10045"
     },
     {
@@ -1428,7 +1440,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1016/j.apgeog.2026.104097"
     },
     {
@@ -1450,7 +1462,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.21203/rs.3.rs-9560908/v1"
     },
     {
@@ -1473,7 +1485,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.38027/iccaua2026en0130"
     },
     {
@@ -1495,7 +1507,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1080/23311886.2026.2683739"
     },
     {
@@ -1517,7 +1529,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1016/j.cities.2026.107021"
     },
     {
@@ -1536,7 +1548,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1186/s12889-026-27750-1"
     },
     {
@@ -1559,7 +1571,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.21203/rs.3.rs-10509201/v1"
     },
     {
@@ -1580,7 +1592,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.69913/udj.2026.08.8.2.176"
     },
     {
@@ -1601,7 +1613,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.4013/sdrj.2025.181.05"
     },
     {
@@ -1624,7 +1636,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.1016/j.ugj.2026.05.004"
     },
     {
@@ -1648,7 +1660,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.18502/kss.v11i4.21249"
     },
     {
@@ -1670,7 +1682,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:44:25.028Z",
+      "seen": "2026-10-27T03:48:00.015Z",
       "key": "space|10.55927/fjas.v5i5.60"
     },
     {
@@ -1691,6 +1703,1434 @@
       "evidence": "Discovery result; confirm details with original publisher",
       "seen": "2026-10-27T03:44:25.351Z",
       "key": "autonomous|https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2NDdDZoRWEwbTE5OEZjQVM5WC1wTC1Bb19adkpFQU5ab1l2dDY5SlNmdnpibm9sU2hTS2FiTG5NWUJqZDQ0Nmg0OFBtNkxvRF92TWJncVlzeDNheDBqVUNQbExQb3paNXAycVc0aklaNkVjcFAwNUw0OGljcE1rVWg1YktHTUNtSG5ZTzgwZGYybVIxY0g4d3FMNUVwc1FzX2htQTFRRGxSZw?oc=5"
+    },
+    {
+      "title": "Autonomous Vehicle Social Acceptance and Smart Mobility Integration: A Thematic Review of Public Trust, Shared Mobility, and Road Coexistence",
+      "url": "https://doi.org/10.1109/icsmartgrid70882.2026.11680696",
+      "date": "2026-07",
+      "publisher": "2026 14th International Conference on Smart Grid (icSmartGrid)",
+      "abstract": "",
+      "doi": "10.1109/icsmartgrid70882.2026.11680696",
+      "authors": "Ercan Kayalıoğlu, Seyfettin Vadi, Hafize Nurgül Durmuş Şenyapar",
+      "id": "10.1109/icsmartgrid70882.2026.11680696",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "trust",
+        "acceptance"
+      ],
+      "reason": "Matches project interests: trust, acceptance",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.1109/icsmartgrid70882.2026.11680696"
+    },
+    {
+      "title": "Public acceptance of autonomous vehicles in Morocco: The roles of trust, education, and environmental perception",
+      "url": "https://doi.org/10.31893/multirev.2026624",
+      "date": "2026-06-16",
+      "publisher": "Multidisciplinary Reviews",
+      "abstract": "Autonomous vehicles (AVs) are increasingly recognized as an important component of future transportation systems and sustainable urban mobility. However, the successful deployment of autonomous mobility technologies largely depends on public acceptance, particularly in developing countries where citizens’ exposure to AV technologies remains limited. This study investigates the main factors influencing public acceptance and adoption intention toward autonomous vehicles in Morocco, with a particular focus on awareness, trust, education, and environmental perception. A quantitative research approach was adopted using a structured online questionnaire distributed among Moroccan respondents. The collected responses were analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). The proposed conceptual framework examined the direct and indirect relationships between awareness, education, environmental perception, trust, and adoption intention toward autonomous vehicles. The findings indicate that trust is the most influential factor affecting adoption intention toward autonomous vehicles. Education positively influences adoption both directly and indirectly through trust, highlighting the mediating role of trust in the acceptance process. Environmental perception also shows a positive effect on adoption intention, whereas awareness alone has a relatively limited influence. The proposed model demonstrates satisfactory explanatory power regarding Moroccan citizens’ perceptions and behavioral intentions toward autonomous mobility technologies. The study highlights ",
+      "doi": "10.31893/multirev.2026624",
+      "authors": "Fellaki Soumaya, Arif Jabir, Youness Frichi",
+      "id": "10.31893/multirev.2026624",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "trust",
+        "acceptance",
+        "deployment"
+      ],
+      "reason": "Matches project interests: trust, acceptance, deployment",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.31893/multirev.2026624"
+    },
+    {
+      "title": "Exploring public perceptions of autonomous vehicles: a field experiment in shared AV mobility",
+      "url": "https://doi.org/10.1016/j.urbmob.2026.100202",
+      "date": "2026-06",
+      "publisher": "Journal of Urban Mobility",
+      "abstract": "",
+      "doi": "10.1016/j.urbmob.2026.100202",
+      "authors": "Khaula Alkaabi, Muhammad Touseef Anjum, Mervat Ijha",
+      "id": "10.1016/j.urbmob.2026.100202",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.1016/j.urbmob.2026.100202"
+    },
+    {
+      "title": "Riding without drivers: A case study of public acceptance of autonomous buses in the Arctic",
+      "url": "https://doi.org/10.1016/j.urbmob.2026.100196",
+      "date": "2026-06",
+      "publisher": "Journal of Urban Mobility",
+      "abstract": "",
+      "doi": "10.1016/j.urbmob.2026.100196",
+      "authors": "Terje Andreas Mathisen, Evgenii Aleksandrov, Hanna Lisa Borkamo",
+      "id": "10.1016/j.urbmob.2026.100196",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "acceptance",
+        "driver"
+      ],
+      "reason": "Matches project interests: acceptance, driver",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.1016/j.urbmob.2026.100196"
+    },
+    {
+      "title": "Human-Centric Digital Twins for Road Safety and Future Autonomous Mobility",
+      "url": "https://doi.org/10.4018/979-8-3373-7785-8.ch010",
+      "date": "2026-06-18",
+      "publisher": "Digital Twin Approaches in Autonomous Vehicles",
+      "abstract": "The resilience of urban transportation systems, as a key component of sustainable development, has played a significant role in urban planning over the past few years. There is a need for new data-driven approaches and advanced simulations to mitigate the consequences of climate change, the expansion of transport networks, and the growing number of vulnerable users. In the meantime, the concept of a digital twin as a dynamic virtual model capable of representing and simulating, monitoring, and analyzing real systems in near real-time rapidly expanded in the field of urban transportation technology. In fact, this part of the present study, which aims to explain the role of digital twins in promoting the resilience of urban transport systems, examines the foundations and methods of spatial modelling, as well as the practical applications of this approach. The primary focus of this section is on integrating spatial data (GIS), transport networks, and a human-centered approach in safety and resilience analysis, particularly for vulnerable users.",
+      "doi": "10.4018/979-8-3373-7785-8.ch010",
+      "authors": "Zahra Yaghoobloo",
+      "id": "10.4018/979-8-3373-7785-8.ch010",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "safety"
+      ],
+      "reason": "Matches project interests: safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.4018/979-8-3373-7785-8.ch010"
+    },
+    {
+      "title": "FLUTE: A Federated Q-Learning Zero-Trust Platform for Secure and Scalable Mobility Data Endorsement in Connected and Autonomous Vehicles",
+      "url": "https://doi.org/10.1142/9789819831548_0007",
+      "date": "2026-08-17",
+      "publisher": "Advances in Transportation Cybersecurity and Resiliency",
+      "abstract": "",
+      "doi": "10.1142/9789819831548_0007",
+      "authors": "Junaid Khan, Fan Zuo, Kaan Ozbay",
+      "id": "10.1142/9789819831548_0007",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "trust"
+      ],
+      "reason": "Matches project interests: trust",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.1142/9789819831548_0007"
+    },
+    {
+      "title": "Affective Explanations for Autonomous Vehicles: From Framework to Scenario-Based Design Guidelines",
+      "url": "https://doi.org/10.1145/3800645.3812927",
+      "date": "2026-06-12",
+      "publisher": "Proceedings of the 2026 Designing Interactive Systems Conference",
+      "abstract": "",
+      "doi": "10.1145/3800645.3812927",
+      "authors": "Shuting Jin, Yujie Zhu, Xingtong Chen",
+      "id": "10.1145/3800645.3812927",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.1145/3800645.3812927"
+    },
+    {
+      "title": "AI-Driven 6G V2X Communication Framework for Autonomous Vehicles and UAV Networks",
+      "url": "https://doi.org/10.4018/979-8-2600-4398-1.ch004",
+      "date": "2026-09-25",
+      "publisher": "Secure and Intelligent V2X Systems for Autonomous Mobility",
+      "abstract": "Rapid advancements in intelligent area computing and 6G communication are transforming autonomous vehicle infrastructure. The integration of 6G features, such as terahertz communications and AI-driven optimization, facilitates reliable low-latency interactions crucial for autonomous and unmanned aerial vehicles. The framework incorporates various V2X communication modes (V2V, V2I, V2P, V2N) and employs machine learning for visitor prediction and anomaly detection, especially in dense urban areas. Comparative evaluations indicate significant improvements in system performance, negotiation latency, and reliability over traditional 5G architectures, enhancing safety and connectivity in future mobility ecosystems and smarter cities.",
+      "doi": "10.4018/979-8-2600-4398-1.ch004",
+      "authors": "Ketan Sarvakar, Dolly Prajapati",
+      "id": "10.4018/979-8-2600-4398-1.ch004",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "safety"
+      ],
+      "reason": "Matches project interests: safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.285Z",
+      "key": "autonomous|10.4018/979-8-2600-4398-1.ch004"
+    },
+    {
+      "title": "Adaptive AI-Driven Digital Twin Frameworks for Autonomous Vehicles",
+      "url": "https://doi.org/10.4018/979-8-3373-7785-8.ch002",
+      "date": "2026-06-18",
+      "publisher": "Digital Twin Approaches in Autonomous Vehicles",
+      "abstract": "Artificial Intelligence (AI) and Machine Learning (ML) are transforming Digital Twin (DT) technology into a real-time, intelligent ecosystem for Autonomous Vehicles (AVs). This chapter explores how AI-driven DT frameworks integrate sensor fusion, reinforcement learning, and edge-cloud collaboration to achieve continuous synchronization between physical and virtual systems. These smart twins enable predictive maintenance, adaptive decision-making, and safety validation with minimal latency. Industrial examples such as Tesla's Predictive Maintenance Twin and Audi's Virtual Prototyping Platform demonstrate practical implementations that enhance reliability, design accuracy, and efficiency. The chapter also discusses challenges in scalability, interoperability, and ethical governance, while highlighting emerging directions like quantum and federated learning. By combining intelligence, automation, and ethical design, AI-empowered Digital Twins form the foundation of next-generation, self-evolving, and resilient autonomous mobility systems.",
+      "doi": "10.4018/979-8-3373-7785-8.ch002",
+      "authors": "Dilmurod Turaev, Ravikumar Natarajan, Aarthi Selvakumar",
+      "id": "10.4018/979-8-3373-7785-8.ch002",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "safety"
+      ],
+      "reason": "Matches project interests: safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.4018/979-8-3373-7785-8.ch002"
+    },
+    {
+      "title": "Bridging Autonomous Driving and Electric-Mobility Systems: From Technical Interfaces to Cross-System Validation",
+      "url": "https://doi.org/10.3390/vehicles8100253",
+      "date": "2026-10-10",
+      "publisher": "Vehicles",
+      "abstract": "Road-transport electrification and driving automation increasingly connect vehicle actions with charging services and urban electricity demand. This review combines two Web of Science Core Collection result sets with abstract-level term analysis and a structured synthesis of technical studies to examine that connection. The broader searches yielded 60,043 and 16,458 records, respectively; recent exports contained 10,926 and 4502 records. Rule-based analysis of nonempty abstracts and the technical synthesis identify four intersections: energy-aware route-charging decisions, station selection and automated access, fleet scheduling, and coupled evaluation. Across the studies examined, vehicle execution, station-session events, and distribution constraints are often represented at different boundaries. The resulting evidence supports a common evaluation of mobility, charging service, and feeder operation, with the five-stage pathway serving as a framework for progressively stronger validation. In a two-hour extreme-condition illustration, on-time charging completion rises from 75.5% without guidance to 97.1% with authorized automated execution, while total vehicle travel time decreases. The review thus identifies measurable interfaces for testing cross-system coordination while keeping field deployment claims tied to their validation level.",
+      "doi": "10.3390/vehicles8100253",
+      "authors": "Shiyang Li, Peixiao Fan, Zhen Tian",
+      "id": "10.3390/vehicles8100253",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "deployment"
+      ],
+      "reason": "Matches project interests: deployment",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.3390/vehicles8100253"
+    },
+    {
+      "title": "Barriers to autonomous vehicles adoption in Europe: Insights from literature and interviews",
+      "url": "https://doi.org/10.1016/j.urbmob.2026.100194",
+      "date": "2026-06",
+      "publisher": "Journal of Urban Mobility",
+      "abstract": "",
+      "doi": "10.1016/j.urbmob.2026.100194",
+      "authors": "Giuseppe de Leo, Giovanni Miragliotta",
+      "id": "10.1016/j.urbmob.2026.100194",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1016/j.urbmob.2026.100194"
+    },
+    {
+      "title": "Beyond Transportation: Autonomous Vehicles as A Human-City Interface for Future Mobility",
+      "url": "https://doi.org/10.1109/ichms69701.2026.11602403",
+      "date": "2026-07-01",
+      "publisher": "2026 IEEE International Conference on Human-Machine Systems (ICHMS)",
+      "abstract": "",
+      "doi": "10.1109/ichms69701.2026.11602403",
+      "authors": "",
+      "id": "10.1109/ichms69701.2026.11602403",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/ichms69701.2026.11602403"
+    },
+    {
+      "title": "Who moves with the robotaxi? A role-based NLP sentiment analysis of acceptance, trust, and action in autonomous mobility",
+      "url": "https://doi.org/10.1016/j.tra.2026.105153",
+      "date": "2026-10",
+      "publisher": "Transportation Research Part A: Policy and Practice",
+      "abstract": "",
+      "doi": "10.1016/j.tra.2026.105153",
+      "authors": "Xinyue Hao, Shuai Huang, Emrah Demir",
+      "id": "10.1016/j.tra.2026.105153",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "trust",
+        "acceptance"
+      ],
+      "reason": "Matches project interests: trust, acceptance",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1016/j.tra.2026.105153"
+    },
+    {
+      "title": "A Companion App for an Autonomous Family Vehicle: Identification of Values for an Autonomous Mobility System",
+      "url": "https://doi.org/10.1109/iv66570.2026.11624103",
+      "date": "2026-06",
+      "publisher": "2026 IEEE Intelligent Vehicles Symposium (IV)",
+      "abstract": "",
+      "doi": "10.1109/iv66570.2026.11624103",
+      "authors": "Leon Johann Brettin, Tobias Schräder, Kerstin Kuhlmann",
+      "id": "10.1109/iv66570.2026.11624103",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/iv66570.2026.11624103"
+    },
+    {
+      "title": "Carmakers' Foray into Shared and Privately Owned Autonomous Vehicles",
+      "url": "https://doi.org/10.4324/9781003781158-28",
+      "date": "2026-08-24",
+      "publisher": "Mobility Revolution",
+      "abstract": "",
+      "doi": "10.4324/9781003781158-28",
+      "authors": "Marc Amblard",
+      "id": "10.4324/9781003781158-28",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.4324/9781003781158-28"
+    },
+    {
+      "title": "Overcoming resistance to innovation: exploring the role of anthropomorphism in early users’ acceptance of autonomous vehicles in Wuhan, China",
+      "url": "https://doi.org/10.1007/s11116-026-10770-6",
+      "date": "2026-05-06",
+      "publisher": "Transportation",
+      "abstract": "",
+      "doi": "10.1007/s11116-026-10770-6",
+      "authors": "Dong Liu, Sangbum Son, Junwei Cao",
+      "id": "10.1007/s11116-026-10770-6",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "acceptance"
+      ],
+      "reason": "Matches project interests: acceptance",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1007/s11116-026-10770-6"
+    },
+    {
+      "title": "A Human-Centric Multimodal Framework for Continuous and Interpretable Driver Fatigue Quantification in Autonomous Vehicles",
+      "url": "https://doi.org/10.1109/sm69703.2026.11614109",
+      "date": "2026-05",
+      "publisher": "2026 International Conference on Smart Mobility (SM)",
+      "abstract": "",
+      "doi": "10.1109/sm69703.2026.11614109",
+      "authors": "Sultanul Kabir, Sanaa Alwidian",
+      "id": "10.1109/sm69703.2026.11614109",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "driver"
+      ],
+      "reason": "Matches project interests: driver",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/sm69703.2026.11614109"
+    },
+    {
+      "title": "A Modular Neuro-Symbolic Framework for Ethical Path Planning in Autonomous Vehicles",
+      "url": "https://doi.org/10.1109/sm69703.2026.11614118",
+      "date": "2026-05",
+      "publisher": "2026 International Conference on Smart Mobility (SM)",
+      "abstract": "",
+      "doi": "10.1109/sm69703.2026.11614118",
+      "authors": "Manar Hatem, Nourhan Ehab, Amr El Mougy",
+      "id": "10.1109/sm69703.2026.11614118",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/sm69703.2026.11614118"
+    },
+    {
+      "title": "Shared autonomous vehicles and inclusive mobility: perceptions of older adults and people with reduced mobility in Athens, Greece",
+      "url": "https://doi.org/10.1007/s11116-026-10791-1",
+      "date": "2026-06-29",
+      "publisher": "Transportation",
+      "abstract": "Abstract With the world’s ageing population and increasing transport equity issues, shared autonomous vehicles (SAVs) represent a potential solution to the persistent mobility barriers faced by older adults and people with reduced mobility. These vulnerable populations often have limited access to transport due to poor access to public transit and limited paratransit service availability. Despite a growing interest in autonomous mobility, there is little evidence on how older adults and people with reduced mobility perceive SAVs, particularly in southern European contexts and under varying mobility and digital access conditions. This study analyses perceptions referring to SAV benefits and barriers, and the intended use of SAVs among older adults and people with reduced mobility in the Athens metropolitan area. It specifically identifies the main factors underpinning the willingness of these vulnerable populations to employ SAV services. A cross-sectional survey was conducted with 267 participants aged 60 + and mobility-impaired adults using paper-based questionnaires. The study used descriptive statistics, chi-square tests and ordinal logistic regression modelling to examine the relationships between demographic characteristics and perceptions of SAVs. Road safety was found to be the most important factor for SAV acceptance, followed by service reliability and vehicle accessibility. Concerns about human intervention in emergencies and accident risks were the biggest acceptance barriers. The regression model showed that perceived vehicle accessibility, autonomy benefits, co",
+      "doi": "10.1007/s11116-026-10791-1",
+      "authors": "Christos Karolemeas, Stefanos Tsigdinos, Lambros Mitropoulos",
+      "id": "10.1007/s11116-026-10791-1",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 65,
+      "matches": [
+        "acceptance",
+        "safety",
+        "accessibility",
+        "equity"
+      ],
+      "reason": "Matches project interests: acceptance, safety, accessibility, equity",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1007/s11116-026-10791-1"
+    },
+    {
+      "title": "Scenario-based deductive modelling of the impact of autonomous vehicles pilot policies on public technology acceptance in China: a Bayesian network",
+      "url": "https://doi.org/10.1080/09537325.2026.2677804",
+      "date": "2026-05-25",
+      "publisher": "Technology Analysis &amp; Strategic Management",
+      "abstract": "",
+      "doi": "10.1080/09537325.2026.2677804",
+      "authors": "Shuang Zhang, Yingqi Liu, Lijie Shen",
+      "id": "10.1080/09537325.2026.2677804",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "acceptance",
+        "pilot"
+      ],
+      "reason": "Matches project interests: acceptance, pilot",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1080/09537325.2026.2677804"
+    },
+    {
+      "title": "Survey on Key Performance Indicators for Evaluating the Impact of Autonomous and Connected Vehicles on Traffic Flows and Mobility Services",
+      "url": "https://doi.org/10.3390/vehicles8090199",
+      "date": "2026-08-23",
+      "publisher": "Vehicles",
+      "abstract": "The introduction of Connected and Autonomous Vehicles (CAVs) into the existing traffic system represents one of the greatest challenges of modern road traffic engineering. Beyond their role as active traffic participants, CAVs can also be regarded as mobile (floating) sensors, effectively turning the vehicle fleet itself into a distributed, city-wide and motorway-wide sensing infrastructure. The transition from fully human-driven vehicles to fully autonomous vehicles will take decades, giving rise to a prolonged mixed-traffic period in which vehicles with different levels of automation share the same road space. This paper analyses the parameters and measures used for evaluating the throughput, environmental impact, and safety of traffic networks at different CAV penetration rates. It further reviews studies that rely exclusively on data collected from CAVs acting as mobile sensors, examining data-aggregation and traffic-state-estimation methods used to reconstruct macroscopic traffic parameters such as flow, density, headway, and speed. Additionally, measures for evaluating specific use cases for CAVs including mobility-on-demand services and their cost comparison with human-driven taxi operations are also addressed. The energy and emissions implications of CAV deployment, including the added burden of sensing hardware and system-level rebound effects, are also examined. Based on the synthesis performed, a set of representative CAVs penetration rates is proposed as a standardised framework for future mixed-traffic flow evaluations.",
+      "doi": "10.3390/vehicles8090199",
+      "authors": "Lucija Bukvić, Martin Gregurić, Filip Vrbanić",
+      "id": "10.3390/vehicles8090199",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "safety",
+        "transition",
+        "deployment"
+      ],
+      "reason": "Matches project interests: safety, transition, deployment",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.3390/vehicles8090199"
+    },
+    {
+      "title": "From Innovation to Acceptance: The Role of Consumer Trust in Intelligent Electric Vehicles",
+      "url": "https://doi.org/10.22214/ijraset.2026.80472",
+      "date": "2026-04-30",
+      "publisher": "International Journal for Research in Applied Science and Engineering Technology",
+      "abstract": "The diffusion of intelligent electric vehicles represents a transformative shift in modern mobility, driven by advanced artificial intelligence, autonomous driving systems, Internet of Things integration, and sustainable design frameworks. Although these innovations promise enhanced safety, efficiency, and environmental performance, consumer trust remains a critical prerequisite for widespread adoption. This study investigates the extent of consumer trust in AI-powered EV features and examines the key drivers influencing trust in self-driving and eco-friendly electric vehicle technologies. A descriptive and analytical research design was employed, drawing data from 100 purposively selected EV users in Thiruvananthapuram district. Primary data were collected through a structured questionnaire, and the Mann–Whitney U test was conducted to identify gender-based differences in trust perceptions. The results reveal that female consumers demonstrate significantly higher trust in dimensions related to safety, privacy, cybersecurity, environmental sustainability, regulatory compliance, and willingness to adopt intelligent EVs, while perceptions of reliability, software updates, usability, brand credibility, and social influence remain gender-neutral. The findings underscore that trust in intelligent EVs is shaped by risk-sensitive and value-driven considerations, emphasizing the necessity for transparent safety evidence, ethical data governance, and verifiable sustainability commitments. The study concludes that technological innovation alone is insufficient; robust trust-building ",
+      "doi": "10.22214/ijraset.2026.80472",
+      "authors": "Ayswarya K. P",
+      "id": "10.22214/ijraset.2026.80472",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 65,
+      "matches": [
+        "trust",
+        "acceptance",
+        "safety",
+        "driver"
+      ],
+      "reason": "Matches project interests: trust, acceptance, safety, driver",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.22214/ijraset.2026.80472"
+    },
+    {
+      "title": "Autonomous Vehicles and Smart Mobility",
+      "url": "https://doi.org/10.1002/9781394351091.ch04",
+      "date": "2026-05-15",
+      "publisher": "Artificial Intelligence (                                        AI                                        ) for Smart and Sustainable Urban Transportation",
+      "abstract": "",
+      "doi": "10.1002/9781394351091.ch04",
+      "authors": "P. Sudheer, S. Ashmad, M. Saravanan",
+      "id": "10.1002/9781394351091.ch04",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1002/9781394351091.ch04"
+    },
+    {
+      "title": "Cognitive Work and Interface Requirements in Autonomous Passenger Mobility: A Taxonomy-Based Analysis of Public Incident Reports",
+      "url": "https://doi.org/10.21203/rs.3.rs-9807732/v1",
+      "date": "2026-10-09",
+      "publisher": "Springer Science and Business Media LLC",
+      "abstract": "Abstract Autonomous passenger mobility changes the distribution of human work rather than removing it from transport operations. Driverless robotaxis, supervised passenger automated driving systems, autonomous shuttles, and remotely assisted mobility services create new cognitive work for passengers, in-vehicle operators, remote supervisors, emergency responders, and surrounding road users. This study analyzes public automated-driving incident records as traces of human-autonomy interaction and develops a taxonomy-based account of interface requirements. A curated corpus of 2,760 latest public report versions was filtered to 2,646 autonomous passenger mobility records and 1,411 interface-relevant report-level cases, aggregated into 1,158 incident clusters. The coding taxonomy links recurring incident patterns to ergonomics constructs including mode awareness, control authority, remote cognitive work, degraded-state communication, external legibility, passenger guidance, and operational boundary management. Results show that the most frequent primary interface families concern curbside, parking, or stop-state interaction; remote or shared supervision; control transfer; fallback or degraded operation; and operational-boundary stressors. The findings indicate that safety in autonomous passenger mobility depends on making system state, authority, fallback behavior, and expected human action legible across multiple actors and interface layers. The study contributes a requirements-oriented framework for designing and verifying human-autonomy interfaces in autonomous passenger mob",
+      "doi": "10.21203/rs.3.rs-9807732/v1",
+      "authors": "Karim Hardy",
+      "id": "10.21203/rs.3.rs-9807732/v1",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "passenger",
+        "safety",
+        "driver"
+      ],
+      "reason": "Matches project interests: passenger, safety, driver",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.21203/rs.3.rs-9807732/v1"
+    },
+    {
+      "title": "Autonomous Vehicles and the Limits of Rapid Adoption: Unintended Consequences for Urban Mobility",
+      "url": "https://doi.org/10.3390/wevj17070376",
+      "date": "2026-07-20",
+      "publisher": "World Electric Vehicle Journal",
+      "abstract": "Autonomous vehicles (AVs) are moving from pilots to regular urban service, yet the speed of large-scale implementation remains uncertain. While prior research emphasizes technological feasibility and adoption, less attention has been paid to the socio-technical dynamics that constrain deployment. This study examines how unintended consequences shape the pace of AV implementation in cities. Drawing on a mixed-methods design combining a structured scoping review with 18 expert interviews, interrelated dynamics are identified across institutional, behavioral, economic-platform, spatial, and normative-societal domains. The findings indicate that implementation speed is not determined by technology alone but emerges from reinforcing feedback loops that generate systemic frictions, including governance lag, demand rebound, spatial bottlenecks, and legitimacy challenges. The study advances a systems-oriented framework that conceptualizes implementation speed as an emergent property of socio-technical dynamics, highlighting the importance of adaptive and anticipatory governance for sustainable urban mobility transitions.",
+      "doi": "10.3390/wevj17070376",
+      "authors": "Maximilian A. Richter, Deniz Pueseli, Joakim Wincent",
+      "id": "10.3390/wevj17070376",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "transition",
+        "pilot",
+        "deployment"
+      ],
+      "reason": "Matches project interests: transition, pilot, deployment",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.3390/wevj17070376"
+    },
+    {
+      "title": "Digital Twin-Enabled Intelligent Transportation Systems",
+      "url": "https://doi.org/10.4018/979-8-3373-7785-8.ch007",
+      "date": "2026-06-18",
+      "publisher": "Digital Twin Approaches in Autonomous Vehicles",
+      "abstract": "This chapter examines the integration of digital twin technology within intelligent transportation systems (ITS) to enhance optimization, safety, and sustainability in modern mobility networks. Despite rapid advancements in autonomous vehicles and smart infrastructure, existing transportation systems remain largely reactive, lacking predictive and system-wide coordination capabilities. This chapter addresses this gap by proposing a unified framework that integrates real-time data synchronization, artificial intelligence, and simulation-driven optimization through digital twin architectures. The findings demonstrate that digital twin–enabled systems significantly improve operational efficiency, reduce congestion, and support low-carbon transportation strategies. The chapter contributes by providing a structured, analytical framework that connects architecture, optimization, safety, and sustainability in intelligent transportation systems.",
+      "doi": "10.4018/979-8-3373-7785-8.ch007",
+      "authors": "Siddharth Shankar Mishra, Jalpa Thakkar, Srreya Sharma",
+      "id": "10.4018/979-8-3373-7785-8.ch007",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "safety"
+      ],
+      "reason": "Matches project interests: safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.4018/979-8-3373-7785-8.ch007"
+    },
+    {
+      "title": "Developing a Dynamic Mobility Model for Backcasting Applications: A Case Study with Shared Autonomous Vehicles",
+      "url": "https://doi.org/10.1007/978-3-032-28319-1_6",
+      "date": "2026-08-04",
+      "publisher": "SpringerBriefs in Applied Sciences and Technology",
+      "abstract": "",
+      "doi": "10.1007/978-3-032-28319-1_6",
+      "authors": "Théotime Héraud, Vinith Kumar Lakshmanan, Antonio Sciarretta",
+      "id": "10.1007/978-3-032-28319-1_6",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1007/978-3-032-28319-1_6"
+    },
+    {
+      "title": "DaVoS: An Instantaneous Safety Model for Autonomous Vehicles",
+      "url": "https://doi.org/10.1109/most69733.2026.00043",
+      "date": "2026-05-04",
+      "publisher": "2026 IEEE 4th International Conference on Mobility, Operations, Services and Technologies (MOST)",
+      "abstract": "",
+      "doi": "10.1109/most69733.2026.00043",
+      "authors": "Yuankai He, Yuxin Wang, Boyang Tian",
+      "id": "10.1109/most69733.2026.00043",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "safety"
+      ],
+      "reason": "Matches project interests: safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/most69733.2026.00043"
+    },
+    {
+      "title": "Driven by trust? Social norms increase trust in shared autonomous public transport",
+      "url": "https://doi.org/10.3389/ffutr.2026.1687363",
+      "date": "2026-05-12",
+      "publisher": "Frontiers in Future Transportation",
+      "abstract": "Public adoption of novel transport technology depends on the willingness of potential users to engage with unfamiliar systems. Trust is a key determinant of this willingness, yet little is known about how trust in shared autonomous vehicles (SAVs) can be shaped. The current pre-registered study investigates to what degree trust predicts the intention to use SAVs and whether static and dynamic social norms can influence the degree of trust in SAVs. Static norms convey the current consensus in a population, while dynamic norms highlight that attitudes or behaviors are changing over time. An online experimental survey was conducted in which participants (n = 1,032; n = 630 after filtering) were randomly assigned to one of three conditions: control, static norm, or dynamic norm. Each condition presented distinct normative statements embedded in informative vignettes about SAVs. The moderating effect of propensity to trust (interpersonal and automation-specific) on the relationship between normative framing and subjective trust was also examined. One-way ANOVA and regression analyses revealed that both static and dynamic normative framings led to significantly higher subjective trust in SAVs compared to the control group. No significant difference was found between the two normative conditions. Propensity to trust (both interpersonal and automation-specific) had direct positive effects on subjective trust but did not moderate the effect of normative framing. Safety evaluation emerged as the strongest predictor of subjective trust. Subjective trust, in turn, was strongly associat",
+      "doi": "10.3389/ffutr.2026.1687363",
+      "authors": "Sander Vassanyi, Ole Aasvik, Pål Ulleberg",
+      "id": "10.3389/ffutr.2026.1687363",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "trust",
+        "safety",
+        "public transport"
+      ],
+      "reason": "Matches project interests: trust, safety, public transport",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.3389/ffutr.2026.1687363"
+    },
+    {
+      "title": "Social justice in the age of privately owned autonomous vehicles: A multi-level acceptance framework linking local and general acceptance to behavioral intention and opposition-oriented collective action in South Korea",
+      "url": "https://doi.org/10.1016/j.tra.2026.105024",
+      "date": "2026-07",
+      "publisher": "Transportation Research Part A: Policy and Practice",
+      "abstract": "",
+      "doi": "10.1016/j.tra.2026.105024",
+      "authors": "JungJe Yoo",
+      "id": "10.1016/j.tra.2026.105024",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "acceptance"
+      ],
+      "reason": "Matches project interests: acceptance",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1016/j.tra.2026.105024"
+    },
+    {
+      "title": "Generative AI for Connected and Autonomous Vehicles",
+      "url": "https://doi.org/10.1002/9781394426713.fmatter",
+      "date": "2026-10-13",
+      "publisher": "Generative                     AI                     for Connected and Autonomous Vehicles",
+      "abstract": "",
+      "doi": "10.1002/9781394426713.fmatter",
+      "authors": "",
+      "id": "10.1002/9781394426713.fmatter",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1002/9781394426713.fmatter"
+    },
+    {
+      "title": "From Expectation to Experience: Understanding Public Acceptance of AI-Enabled Autonomous Shuttle Services in Seoul",
+      "url": "https://doi.org/10.3390/su18104649",
+      "date": "2026-05-07",
+      "publisher": "Sustainability",
+      "abstract": "This study examines public acceptance of autonomous shuttle services in a real-world urban context by integrating expectation–experience dynamics, system characteristics, and configurational analysis. Based on survey data collected from users of Seoul’s self-driving shuttle operating along the Cheonggyecheon corridor (n = 566), a mixed-method approach combining structural equation modeling (SEM) and fuzzy-set qualitative comparative analysis (fsQCA) is employed. The results confirm that pre-use expectations significantly shape post-use experiences, supporting the expectation–confirmation framework. Notably, perceived autonomy exhibits a significant negative effect on user attitudes, suggesting that users may prefer partial automation rather than full autonomy during early deployment stages. In contrast to prior research, trust and satisfaction do not significantly influence attitudes, suggesting a context-specific pattern in which user evaluations may be shaped more by system-related considerations than by psychological responses in this early-stage pilot setting. Furthermore, perceived human backup plays a dual role by enhancing experienced safety while simultaneously reducing perceived autonomy, highlighting a human backup paradox in early-stage deployment. Contextual factors, including integration value and fare acceptability, significantly influence continuation intention, highlighting the importance of system-level integration in public transport. The fsQCA results further uncover multiple configurational pathways leading to high acceptance, demonstrating causal comple",
+      "doi": "10.3390/su18104649",
+      "authors": "Xiaoyu Zhang, Luning Tong, Maowei Chen",
+      "id": "10.3390/su18104649",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 95,
+      "matches": [
+        "trust",
+        "acceptance",
+        "experience",
+        "safety",
+        "pilot",
+        "deployment",
+        "public transport"
+      ],
+      "reason": "Matches project interests: trust, acceptance, experience, safety, pilot, deployment, public transport",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.3390/su18104649"
+    },
+    {
+      "title": "Cybersecurity Trust as a Moderator of Perceived Safety Risks in AI-Driven Autonomous Vehicles",
+      "url": "https://doi.org/10.1109/codit70676.2026.11630767",
+      "date": "2026-07",
+      "publisher": "2026 12th International Conference on Control, Decision and Information Technologies (CoDIT)",
+      "abstract": "",
+      "doi": "10.1109/codit70676.2026.11630767",
+      "authors": "Péter Szikora, Pál Fehér-Polgár",
+      "id": "10.1109/codit70676.2026.11630767",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "trust",
+        "safety"
+      ],
+      "reason": "Matches project interests: trust, safety",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.1109/codit70676.2026.11630767"
+    },
+    {
+      "title": "Digital Twin-Driven Safety Validation and Predictive Risk Modelling for Autonomous Vehicles",
+      "url": "https://doi.org/10.4018/979-8-3373-7785-8.ch006",
+      "date": "2026-06-18",
+      "publisher": "Digital Twin Approaches in Autonomous Vehicles",
+      "abstract": "This chapter examines Digital Twin–driven approaches for safety validation and predictive risk modeling in autonomous vehicles operating in complex environments. The purpose of this chapter is to address the limitations of mileage-based and reactive testing by proposing a scalable, simulation-centric safety validation framework. The chapter synthesizes research on Digital Twin architectures, autonomous vehicle simulation platforms, surrogate safety metrics, machine learning–based risk prediction, and real-time monitoring. It demonstrates how Digital Twins support systematic generation of rare and safety-critical scenarios, continuous risk assessment, and adaptive learning across the autonomous vehicle lifecycle. Regulatory, ethical, and governance are also discussed, highlighting the role of Digital Twin–enabled validation in scenario-based approval, continuous compliance monitoring, and transparent safety assurance. By integrating technical and policy perspectives, the chapter provides a coherent framework to support safer and more trustworthy autonomous mobility systems.",
+      "doi": "10.4018/979-8-3373-7785-8.ch006",
+      "authors": "Shashikant Nishant Sharma",
+      "id": "10.4018/979-8-3373-7785-8.ch006",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "trust",
+        "safety",
+        "policy"
+      ],
+      "reason": "Matches project interests: trust, safety, policy",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.4018/979-8-3373-7785-8.ch006"
+    },
+    {
+      "title": "Security and Resilience in Autonomous Vehicles: A Proactive Design Approach",
+      "url": "https://doi.org/10.5772/intechopen.1015209",
+      "date": "2026-05-05",
+      "publisher": "Civil Engineering",
+      "abstract": "Autonomous vehicles (AVs) promise efficient, clean, and cost-effective transportation systems, but their reliance on sensors, wireless communications, and decision-making systems makes them vulnerable to cyberattacks and physical threats. This chapter presents novel design techniques to strengthen the security and resilience of AVs. Firstly, we provide a taxonomy of potential attacks across different architectural layers, from perception and control manipulation to vehicle-to-any (V2X) communication exploits and software supply chain compromises. Building on this analysis, we present an AV resilient architecture that integrates redundancy, diversity, and adaptive reconfiguration strategies, supported by anomaly- and hash-based intrusion detection techniques. Experimental validation on the Quanser QCar platform demonstrates the effectiveness of these methods in detecting depth camera blinding attacks and software tampering of perception modules. The results highlight how fast anomaly detection combined with fallback and backup mechanisms ensures operational continuity, even under adversarial conditions. By linking layered threat modeling with practical defense implementations, this work advances AV resilience strategies for safer and more trustworthy autonomous vehicles.",
+      "doi": "10.5772/intechopen.1015209",
+      "authors": "Chieh Tsai, Murad Mehrab Abrar, Salim Hariri",
+      "id": "10.5772/intechopen.1015209",
+      "project": "autonomous",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "trust"
+      ],
+      "reason": "Matches project interests: trust",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:02.286Z",
+      "key": "autonomous|10.5772/intechopen.1015209"
+    },
+    {
+      "title": "Social Infrastructure and Recent Surges in Opioid-Related Deaths Amid the Pandemic - Poverty Solutions at the University of Michigan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXpUMzBzWVRnLW9hLVdVN0dWSTh4TkdZOGlWaUtEbHRHejhKWGE1Z2tvNlRhanFPVUd4bHNqWEFLaWc5ZWxMeGNwUzEyS2VJb0xpNzR3NEdTNWw3dXFaU19XN2N3eFpoX1N5a21BcldzSUhSYldCVkVJVVJWNFAxWGlySVlYMU5keE04YXNXS0dKVzJYRG5IRkNJWTFjcENBcHlwN2k2OENVVlNVLVBaaw?oc=5",
+      "date": "2026-09-11",
+      "publisher": "Poverty Solutions at the University of Michigan",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXpUMzBzWVRnLW9hLVdVN0dWSTh4TkdZOGlWaUtEbHRHejhKWGE1Z2tvNlRhanFPVUd4bHNqWEFLaWc5ZWxMeGNwUzEyS2VJb0xpNzR3NEdTNWw3dXFaU19XN2N3eFpoX1N5a21BcldzSUhSYldCVkVJVVJWNFAxWGlySVlYMU5keE04YXNXS0dKVzJYRG5IRkNJWTFjcENBcHlwN2k2OENVVlNVLVBaaw?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXpUMzBzWVRnLW9hLVdVN0dWSTh4TkdZOGlWaUtEbHRHejhKWGE1Z2tvNlRhanFPVUd4bHNqWEFLaWc5ZWxMeGNwUzEyS2VJb0xpNzR3NEdTNWw3dXFaU19XN2N3eFpoX1N5a21BcldzSUhSYldCVkVJVVJWNFAxWGlySVlYMU5keE04YXNXS0dKVzJYRG5IRkNJWTFjcENBcHlwN2k2OENVVlNVLVBaaw?oc=5"
+    },
+    {
+      "title": "Community Hub Network - The City of Asheville (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGlzSW9PQTd2NGFKalIyc2FMWXJhakdVaXpiaktUaThxWlFmMHFHbk1FcGc0ZzB4YWNGanljZVdWNmpsd0FQZC1NSU9KOHpTZDdwUmgtbEtQclh6SVkweDNHa1JTdlBpZTJoYXhBbEQ4NEFRV3ZxXzdhMk43M2pfdTJhX2Uyc3ZHVG55SldDTVVwUEllWVFxSVJiQlBfTUdub3BNbGdKOEk1ZUNOYThDWXpidw?oc=5",
+      "date": "2026-09-27",
+      "publisher": "The City of Asheville (.gov)",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGlzSW9PQTd2NGFKalIyc2FMWXJhakdVaXpiaktUaThxWlFmMHFHbk1FcGc0ZzB4YWNGanljZVdWNmpsd0FQZC1NSU9KOHpTZDdwUmgtbEtQclh6SVkweDNHa1JTdlBpZTJoYXhBbEQ4NEFRV3ZxXzdhMk43M2pfdTJhX2Uyc3ZHVG55SldDTVVwUEllWVFxSVJiQlBfTUdub3BNbGdKOEk1ZUNOYThDWXpidw?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGlzSW9PQTd2NGFKalIyc2FMWXJhakdVaXpiaktUaThxWlFmMHFHbk1FcGc0ZzB4YWNGanljZVdWNmpsd0FQZC1NSU9KOHpTZDdwUmgtbEtQclh6SVkweDNHa1JTdlBpZTJoYXhBbEQ4NEFRV3ZxXzdhMk43M2pfdTJhX2Uyc3ZHVG55SldDTVVwUEllWVFxSVJiQlBfTUdub3BNbGdKOEk1ZUNOYThDWXpidw?oc=5"
+    },
+    {
+      "title": "sculptural copper canopy tops micro-landmark community hub in tokyo by nikken sekkei - Designboom",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDRhZEhFQnR5ZktocjlBUEVUQXNmWVV1VklYQ240cHZpcFFTZkdYczhDME1BYkZHSEFFaVJnQTFaZGpMSlFpVHMzMEcyaFBia3RadFUwU2lfSkxfQ1hXcVVEMVJZckF4QlRJcXdLU1NTbXZQMDJOV3UtYkNiajFMYkd4MzI1REt0OHNCMllEWG9WdHREbHBfdVo0Q0lHNzlVQ2dKMEMwRUI0TWhXaFZ3SEZKMW5wOURUbTJZa3NQbw?oc=5",
+      "date": "2026-06-17",
+      "publisher": "Designboom",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDRhZEhFQnR5ZktocjlBUEVUQXNmWVV1VklYQ240cHZpcFFTZkdYczhDME1BYkZHSEFFaVJnQTFaZGpMSlFpVHMzMEcyaFBia3RadFUwU2lfSkxfQ1hXcVVEMVJZckF4QlRJcXdLU1NTbXZQMDJOV3UtYkNiajFMYkd4MzI1REt0OHNCMllEWG9WdHREbHBfdVo0Q0lHNzlVQ2dKMEMwRUI0TWhXaFZ3SEZKMW5wOURUbTJZa3NQbw?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDRhZEhFQnR5ZktocjlBUEVUQXNmWVV1VklYQ240cHZpcFFTZkdYczhDME1BYkZHSEFFaVJnQTFaZGpMSlFpVHMzMEcyaFBia3RadFUwU2lfSkxfQ1hXcVVEMVJZckF4QlRJcXdLU1NTbXZQMDJOV3UtYkNiajFMYkd4MzI1REt0OHNCMllEWG9WdHREbHBfdVo0Q0lHNzlVQ2dKMEMwRUI0TWhXaFZ3SEZKMW5wOURUbTJZa3NQbw?oc=5"
+    },
+    {
+      "title": "Libraries act as ‘vital social infrastructure’, suggests Scottish research project - Arts Professional",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME41d1poUjMtQWdtVGNaUjY4eGxHS2dQQmxKUE5sNi1hOHAwM3M1NGYtdzA4WEJab24tVzNreEc4UE83cEF4T19vRXVmcGV0VkVsQ2h5V3NEQ05xOXNUQU1sMW5WVkNHUGVYTVpybVA4UVk4U2pQVjBYY3RaYl9Qc3hMM0syYnJTamNyZTBwSndTSnpSVzdveE9Da2lvbWlBUmZXdnI1VEUweG9ncmw2MGx4VGtPTXFrbVhB?oc=5",
+      "date": "2026-09-11",
+      "publisher": "Arts Professional",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME41d1poUjMtQWdtVGNaUjY4eGxHS2dQQmxKUE5sNi1hOHAwM3M1NGYtdzA4WEJab24tVzNreEc4UE83cEF4T19vRXVmcGV0VkVsQ2h5V3NEQ05xOXNUQU1sMW5WVkNHUGVYTVpybVA4UVk4U2pQVjBYY3RaYl9Qc3hMM0syYnJTamNyZTBwSndTSnpSVzdveE9Da2lvbWlBUmZXdnI1VEUweG9ncmw2MGx4VGtPTXFrbVhB?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME41d1poUjMtQWdtVGNaUjY4eGxHS2dQQmxKUE5sNi1hOHAwM3M1NGYtdzA4WEJab24tVzNreEc4UE83cEF4T19vRXVmcGV0VkVsQ2h5V3NEQ05xOXNUQU1sMW5WVkNHUGVYTVpybVA4UVk4U2pQVjBYY3RaYl9Qc3hMM0syYnJTamNyZTBwSndTSnpSVzdveE9Da2lvbWlBUmZXdnI1VEUweG9ncmw2MGx4VGtPTXFrbVhB?oc=5"
+    },
+    {
+      "title": "Pension funds creating social infrastructure, but measurement of impact is required: ICPM - Benefits Canada.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEZTel82a2FQOGpEMGdJVHhfeDlZLVF4LXpwUUo1eHNNRXpaXzB5UlR6Z3JaeVhMWWtIeHdvcTRZMkFTM2x6ZGNid09hYkswaW9GS0M4VXhRTzZENGtkcllOaW5tNGdmejVJdUdtbm1Lb3hkMnExRGpHVlkzSzZmdllxMExrOHhZcjBpZ1J2eFRfQlZicHZsRFE5MEQzcFRMR1VKcndURTZWb2JUdDRFUUtCcFA0TmprWnFVM0ZOQmVLZ2lOYkVtNE1STnhxaUJWMWNxX0Jkbw?oc=5",
+      "date": "2026-06-02",
+      "publisher": "Benefits Canada.com",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEZTel82a2FQOGpEMGdJVHhfeDlZLVF4LXpwUUo1eHNNRXpaXzB5UlR6Z3JaeVhMWWtIeHdvcTRZMkFTM2x6ZGNid09hYkswaW9GS0M4VXhRTzZENGtkcllOaW5tNGdmejVJdUdtbm1Lb3hkMnExRGpHVlkzSzZmdllxMExrOHhZcjBpZ1J2eFRfQlZicHZsRFE5MEQzcFRMR1VKcndURTZWb2JUdDRFUUtCcFA0TmprWnFVM0ZOQmVLZ2lOYkVtNE1STnhxaUJWMWNxX0Jkbw?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEZTel82a2FQOGpEMGdJVHhfeDlZLVF4LXpwUUo1eHNNRXpaXzB5UlR6Z3JaeVhMWWtIeHdvcTRZMkFTM2x6ZGNid09hYkswaW9GS0M4VXhRTzZENGtkcllOaW5tNGdmejVJdUdtbm1Lb3hkMnExRGpHVlkzSzZmdllxMExrOHhZcjBpZ1J2eFRfQlZicHZsRFE5MEQzcFRMR1VKcndURTZWb2JUdDRFUUtCcFA0TmprWnFVM0ZOQmVLZ2lOYkVtNE1STnhxaUJWMWNxX0Jkbw?oc=5"
+    },
+    {
+      "title": "Opening Tennis Up in Sheffield at the Hillsborough Park Community Hub - LTA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGQ5cE5vaW02bzlQUnJhUDY0d3VLbkVUVzBWc1RhdkFUZC1wRWhualRmT1ZGSmVGaGtGalJWMmVMV2tYUTl0X0RBMTROQXliek1MazMyMW5wTHlWX19SWE15QXdnd09pSXd6V3JoSXJrQU1WN2ZFMWdNTEZ5OG1UVzVwUWNHWDRXUERfQ3c0cERmeDdfdVNGSm5JV3dqNDE5VzRpSnAtbzZhZw?oc=5",
+      "date": "2026-08-25",
+      "publisher": "LTA",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGQ5cE5vaW02bzlQUnJhUDY0d3VLbkVUVzBWc1RhdkFUZC1wRWhualRmT1ZGSmVGaGtGalJWMmVMV2tYUTl0X0RBMTROQXliek1MazMyMW5wTHlWX19SWE15QXdnd09pSXd6V3JoSXJrQU1WN2ZFMWdNTEZ5OG1UVzVwUWNHWDRXUERfQ3c0cERmeDdfdVNGSm5JV3dqNDE5VzRpSnAtbzZhZw?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGQ5cE5vaW02bzlQUnJhUDY0d3VLbkVUVzBWc1RhdkFUZC1wRWhualRmT1ZGSmVGaGtGalJWMmVMV2tYUTl0X0RBMTROQXliek1MazMyMW5wTHlWX19SWE15QXdnd09pSXd6V3JoSXJrQU1WN2ZFMWdNTEZ5OG1UVzVwUWNHWDRXUERfQ3c0cERmeDdfdVNGSm5JV3dqNDE5VzRpSnAtbzZhZw?oc=5"
+    },
+    {
+      "title": "A boost for Kirkby as Tower Hill Community Hub secures £1,000 funding boost - InYourArea",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWlzekk2RVIwSHlpQ2pzUWhVRnVXWmJWWk93ZE9WcGFMQ0tyc2h4VVlMMFh3T0VTcVl1cnJBQ21wMmFVTzlnRjVIMnBhc3dKU2JfZlBOTjhXYmZqbTNCRmdESzRXeUZ3cHNqdGpZcUR2TW9TV2ZzTnNYMmlTRHRhMkRtZkw4ZWFYYWo4azdhejY4anYyQnFRejU2UktMZ2p6Zld1MVAydXpkYXlY?oc=5",
+      "date": "2026-09-10",
+      "publisher": "InYourArea",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWlzekk2RVIwSHlpQ2pzUWhVRnVXWmJWWk93ZE9WcGFMQ0tyc2h4VVlMMFh3T0VTcVl1cnJBQ21wMmFVTzlnRjVIMnBhc3dKU2JfZlBOTjhXYmZqbTNCRmdESzRXeUZ3cHNqdGpZcUR2TW9TV2ZzTnNYMmlTRHRhMkRtZkw4ZWFYYWo4azdhejY4anYyQnFRejU2UktMZ2p6Zld1MVAydXpkYXlY?oc=5",
+      "project": "hubs",
+      "type": "Practice",
+      "source": "Google News · practice discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.715Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWlzekk2RVIwSHlpQ2pzUWhVRnVXWmJWWk93ZE9WcGFMQ0tyc2h4VVlMMFh3T0VTcVl1cnJBQ21wMmFVTzlnRjVIMnBhc3dKU2JfZlBOTjhXYmZqbTNCRmdESzRXeUZ3cHNqdGpZcUR2TW9TV2ZzTnNYMmlTRHRhMkRtZkw4ZWFYYWo4azdhejY4anYyQnFRejU2UktMZ2p6Zld1MVAydXpkYXlY?oc=5"
+    },
+    {
+      "title": "Placer County, UC Davis Explore Regional Science, Education and Community Hub in Tahoe City - UC Davis",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEFGLUU2UkowSHpXQkUyaVh4bEJOa0JaRDdrdTlLdnRlOHk0Y0FkZ1BmY082Tlk5MmNFdlBaZkxnVjA0eTRSNHJQV2Vnd095OEdnYUVXNnN2b1YzbDVjdVRCMXZ2WWJqcmJfdEo0WGpoeGkwUDZqNUFFdzNfS2hnaTAwY0IzRGtsQVJ3WW5vZVg2ejNzd1I4cl9pVUhMUmMyMlZEUy1uYVZTcEcyQ3N5S3Z3NzRxdw?oc=5",
+      "date": "2026-10-22",
+      "publisher": "UC Davis",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEFGLUU2UkowSHpXQkUyaVh4bEJOa0JaRDdrdTlLdnRlOHk0Y0FkZ1BmY082Tlk5MmNFdlBaZkxnVjA0eTRSNHJQV2Vnd095OEdnYUVXNnN2b1YzbDVjdVRCMXZ2WWJqcmJfdEo0WGpoeGkwUDZqNUFFdzNfS2hnaTAwY0IzRGtsQVJ3WW5vZVg2ejNzd1I4cl9pVUhMUmMyMlZEUy1uYVZTcEcyQ3N5S3Z3NzRxdw?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEFGLUU2UkowSHpXQkUyaVh4bEJOa0JaRDdrdTlLdnRlOHk0Y0FkZ1BmY082Tlk5MmNFdlBaZkxnVjA0eTRSNHJQV2Vnd095OEdnYUVXNnN2b1YzbDVjdVRCMXZ2WWJqcmJfdEo0WGpoeGkwUDZqNUFFdzNfS2hnaTAwY0IzRGtsQVJ3WW5vZVg2ejNzd1I4cl9pVUhMUmMyMlZEUy1uYVZTcEcyQ3N5S3Z3NzRxdw?oc=5"
+    },
+    {
+      "title": "City to fund community hubs, as resilience report recommends - The City of Asheville - The City of Asheville (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlwN0JYVUNHSHFhUzgxQXpqYkhiVFNoQ0wtekk3LS00TWI4X0J6TTlmOGJBNVkzQTVDbmxtXzNGZDh6blMxRXBXaWZrbzZIRUM2YUxVNzFBSFJpVDNPME5tUjM1aHozamlveDl4bWRtY1A0VUFlRU02M3pPcFlpZHVVU3V1Ums4QTd4R0xGZXhiWDkxbmFTcQ?oc=5",
+      "date": "2026-08-10",
+      "publisher": "The City of Asheville (.gov)",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlwN0JYVUNHSHFhUzgxQXpqYkhiVFNoQ0wtekk3LS00TWI4X0J6TTlmOGJBNVkzQTVDbmxtXzNGZDh6blMxRXBXaWZrbzZIRUM2YUxVNzFBSFJpVDNPME5tUjM1aHozamlveDl4bWRtY1A0VUFlRU02M3pPcFlpZHVVU3V1Ums4QTd4R0xGZXhiWDkxbmFTcQ?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlwN0JYVUNHSHFhUzgxQXpqYkhiVFNoQ0wtekk3LS00TWI4X0J6TTlmOGJBNVkzQTVDbmxtXzNGZDh6blMxRXBXaWZrbzZIRUM2YUxVNzFBSFJpVDNPME5tUjM1aHozamlveDl4bWRtY1A0VUFlRU02M3pPcFlpZHVVU3V1Ums4QTd4R0xGZXhiWDkxbmFTcQ?oc=5"
+    },
+    {
+      "title": "Expansion of Wells Park creating community hub, City of Albuquerque says - KRQE",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkE0ZS1UaFh6d3I3M2s1UkZDMDVEMXloMW04ejMxNGJQa2o1bEoyOGY2ZGFrWHZ6bEN0VnFFdl9Tc1c3Nld4V0QzeGpxZEZjS0U5UW4wY2JqVFJVUEJuT0l0NnNXNURiUkV6OVZnUjRpblZoRlpGZFdOdTVwbHBLWU1xX0Fyd3NnUHpETnJEMFl0TjhRRzgzWVgzb3pqeW9fSVB0TXVCTHh3c0F1Nm1uYy1ONl9XTmPSAbwBQVVfeXFMT3pmTTdwbE43TW9ZaHNMRENmWld2UERtTElEdTRMLU83UEpkdVZfeV9LZWFhV0h6WUVvdUppcEFYOHVHRHdWZUI3YXhPd3ZQSERWbzdnYVBZOTZnOXhJLThmVENWOTV3eUlQT1QyNE8yRmNwVkd3ODVwNExLVUhjaEM2Yi1NMm1PWl9JcFEzaW9MRzNUQUl4dGdsaUplaG9TYkdCdGxVZUFkaVFjVDZ4QURsUEZGVEJ3Q290anQ?oc=5",
+      "date": "2026-08-13",
+      "publisher": "KRQE",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkE0ZS1UaFh6d3I3M2s1UkZDMDVEMXloMW04ejMxNGJQa2o1bEoyOGY2ZGFrWHZ6bEN0VnFFdl9Tc1c3Nld4V0QzeGpxZEZjS0U5UW4wY2JqVFJVUEJuT0l0NnNXNURiUkV6OVZnUjRpblZoRlpGZFdOdTVwbHBLWU1xX0Fyd3NnUHpETnJEMFl0TjhRRzgzWVgzb3pqeW9fSVB0TXVCTHh3c0F1Nm1uYy1ONl9XTmPSAbwBQVVfeXFMT3pmTTdwbE43TW9ZaHNMRENmWld2UERtTElEdTRMLU83UEpkdVZfeV9LZWFhV0h6WUVvdUppcEFYOHVHRHdWZUI3YXhPd3ZQSERWbzdnYVBZOTZnOXhJLThmVENWOTV3eUlQT1QyNE8yRmNwVkd3ODVwNExLVUhjaEM2Yi1NMm1PWl9JcFEzaW9MRzNUQUl4dGdsaUplaG9TYkdCdGxVZUFkaVFjVDZ4QURsUEZGVEJ3Q290anQ?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkE0ZS1UaFh6d3I3M2s1UkZDMDVEMXloMW04ejMxNGJQa2o1bEoyOGY2ZGFrWHZ6bEN0VnFFdl9Tc1c3Nld4V0QzeGpxZEZjS0U5UW4wY2JqVFJVUEJuT0l0NnNXNURiUkV6OVZnUjRpblZoRlpGZFdOdTVwbHBLWU1xX0Fyd3NnUHpETnJEMFl0TjhRRzgzWVgzb3pqeW9fSVB0TXVCTHh3c0F1Nm1uYy1ONl9XTmPSAbwBQVVfeXFMT3pmTTdwbE43TW9ZaHNMRENmWld2UERtTElEdTRMLU83UEpkdVZfeV9LZWFhV0h6WUVvdUppcEFYOHVHRHdWZUI3YXhPd3ZQSERWbzdnYVBZOTZnOXhJLThmVENWOTV3eUlQT1QyNE8yRmNwVkd3ODVwNExLVUhjaEM2Yi1NMm1PWl9JcFEzaW9MRzNUQUl4dGdsaUplaG9TYkdCdGxVZUFkaVFjVDZ4QURsUEZGVEJ3Q290anQ?oc=5"
+    },
+    {
+      "title": "Pilot scheme in England to convert empty classrooms into community hubs | Schools - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RUTWpXckhDTTBwWFhLMkdwLThjM0dJZU1MNTdjSnp0aEFpWVAzd1NtN090SnRMUFFuUVhmaFVMLXV0WUo5eHBYUmJ6OHRYOVJLUWloMHAxb0cyNEZhTEd6bGFFd29EMGdZc1g3RS0zb3RaMHhzcVgtb1cxelp3cm12ZWlzUFNwaC1NbWdZaWFUQURwb1RscnVNM3hGSXpteTAzVFlBWHRCZ0JMd21r?oc=5",
+      "date": "2026-07-15",
+      "publisher": "The Guardian",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RUTWpXckhDTTBwWFhLMkdwLThjM0dJZU1MNTdjSnp0aEFpWVAzd1NtN090SnRMUFFuUVhmaFVMLXV0WUo5eHBYUmJ6OHRYOVJLUWloMHAxb0cyNEZhTEd6bGFFd29EMGdZc1g3RS0zb3RaMHhzcVgtb1cxelp3cm12ZWlzUFNwaC1NbWdZaWFUQURwb1RscnVNM3hGSXpteTAzVFlBWHRCZ0JMd21r?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RUTWpXckhDTTBwWFhLMkdwLThjM0dJZU1MNTdjSnp0aEFpWVAzd1NtN090SnRMUFFuUVhmaFVMLXV0WUo5eHBYUmJ6OHRYOVJLUWloMHAxb0cyNEZhTEd6bGFFd29EMGdZc1g3RS0zb3RaMHhzcVgtb1cxelp3cm12ZWlzUFNwaC1NbWdZaWFUQURwb1RscnVNM3hGSXpteTAzVFlBWHRCZ0JMd21r?oc=5"
+    },
+    {
+      "title": "Abilene Heritage Square officially opens as city's new community hub - KTXS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVndOUFFESFVDaExVVkotVjI2OW43T0JjNXpGelM0ZGR4Mk9FUlhla3lKSERKNkdJT0Y2TEwxWUlhOFlrMkF1akhnOFpxaTlwelVRUmhpN2oxdm9GUHNwMTk5VDZwUmlUNWU4LVExd3NwUGZJR1YxMkY5bW43TUd4ZnV0ckFlXzhsMnhQYml0cTNLQ3p5d2kzdDdHdw?oc=5",
+      "date": "2026-05-16",
+      "publisher": "KTXS",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVndOUFFESFVDaExVVkotVjI2OW43T0JjNXpGelM0ZGR4Mk9FUlhla3lKSERKNkdJT0Y2TEwxWUlhOFlrMkF1akhnOFpxaTlwelVRUmhpN2oxdm9GUHNwMTk5VDZwUmlUNWU4LVExd3NwUGZJR1YxMkY5bW43TUd4ZnV0ckFlXzhsMnhQYml0cTNLQ3p5d2kzdDdHdw?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMimwFBVV95cUxNVndOUFFESFVDaExVVkotVjI2OW43T0JjNXpGelM0ZGR4Mk9FUlhla3lKSERKNkdJT0Y2TEwxWUlhOFlrMkF1akhnOFpxaTlwelVRUmhpN2oxdm9GUHNwMTk5VDZwUmlUNWU4LVExd3NwUGZJR1YxMkY5bW43TUd4ZnV0ckFlXzhsMnhQYml0cTNLQ3p5d2kzdDdHdw?oc=5"
+    },
+    {
+      "title": "New mobile Community Hub launched to support residents - Derby City Council",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM1c2RWxYTzYtdkkwSEozQmwzQW9FZ1RtZTRVYXp1MWswbnRLd05WQ3dhZWpZYlNjSS1lbTZmNU9NU0NpVUlGS2RkSC1ZREpfWWlLWG80eFdraS15OFpWNzZvdTViRDZneG0weVFHaHp5REhi?oc=5",
+      "date": "2026-08-05",
+      "publisher": "Derby City Council",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM1c2RWxYTzYtdkkwSEozQmwzQW9FZ1RtZTRVYXp1MWswbnRLd05WQ3dhZWpZYlNjSS1lbTZmNU9NU0NpVUlGS2RkSC1ZREpfWWlLWG80eFdraS15OFpWNzZvdTViRDZneG0weVFHaHp5REhi?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM1c2RWxYTzYtdkkwSEozQmwzQW9FZ1RtZTRVYXp1MWswbnRLd05WQ3dhZWpZYlNjSS1lbTZmNU9NU0NpVUlGS2RkSC1ZREpfWWlLWG80eFdraS15OFpWNzZvdTViRDZneG0weVFHaHp5REhi?oc=5"
+    },
+    {
+      "title": "New Clyde North community hub breaks ground - City of Casey",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUhMdHhzQnZoOFNHX2x1ZEZhZWVJdmN4eE5VNDF3amFwb1FPMzdXYm9QSXlJRG54Yi1EV3Nya29jdUM2dWlIdERFOUhDbk9Wdl9VeDRvSXZsX01jNUVvYlNIN010U1diLU9OQTExVlN4VW1lYzZVWnFhN1FLTmpMeW02bw?oc=5",
+      "date": "2026-06-11",
+      "publisher": "City of Casey",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUhMdHhzQnZoOFNHX2x1ZEZhZWVJdmN4eE5VNDF3amFwb1FPMzdXYm9QSXlJRG54Yi1EV3Nya29jdUM2dWlIdERFOUhDbk9Wdl9VeDRvSXZsX01jNUVvYlNIN010U1diLU9OQTExVlN4VW1lYzZVWnFhN1FLTmpMeW02bw?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUhMdHhzQnZoOFNHX2x1ZEZhZWVJdmN4eE5VNDF3amFwb1FPMzdXYm9QSXlJRG54Yi1EV3Nya29jdUM2dWlIdERFOUhDbk9Wdl9VeDRvSXZsX01jNUVvYlNIN010U1diLU9OQTExVlN4VW1lYzZVWnFhN1FLTmpMeW02bw?oc=5"
+    },
+    {
+      "title": "UC Davis may develop new Lake Tahoe science and community hub. Here’s where - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nRXBxT244Ni0wMzYzUG5zTVNBVG0xa3E5ZG9rWUVlSjN5Y04ydUNrV3AzNWFfd3IxLXVYemJJQThDMGwxM2VqbmcxcWlpUVpfOWVQNTdnSTBTY0FkNWlGNWZwLUZUYjZpeU5JdnNUbjZxWEnSAXNBVV95cUxPYnU5UG9ncGR2YWg4SHpnNUVOT2FCRUNvNkh5SFRSZXJVd1o0aXJkVTFlZjlzLUo3OW9nU1U3c0t4SVBhbGlXVXExZGhMVlowdGptS3J6OUtuWTdrSjFLNnZvUFFPR0Jmc2lYWEFyVnI1b3Q0?oc=5",
+      "date": "2026-10-20",
+      "publisher": "Sacramento Bee",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nRXBxT244Ni0wMzYzUG5zTVNBVG0xa3E5ZG9rWUVlSjN5Y04ydUNrV3AzNWFfd3IxLXVYemJJQThDMGwxM2VqbmcxcWlpUVpfOWVQNTdnSTBTY0FkNWlGNWZwLUZUYjZpeU5JdnNUbjZxWEnSAXNBVV95cUxPYnU5UG9ncGR2YWg4SHpnNUVOT2FCRUNvNkh5SFRSZXJVd1o0aXJkVTFlZjlzLUo3OW9nU1U3c0t4SVBhbGlXVXExZGhMVlowdGptS3J6OUtuWTdrSjFLNnZvUFFPR0Jmc2lYWEFyVnI1b3Q0?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMic0FVX3lxTE9nRXBxT244Ni0wMzYzUG5zTVNBVG0xa3E5ZG9rWUVlSjN5Y04ydUNrV3AzNWFfd3IxLXVYemJJQThDMGwxM2VqbmcxcWlpUVpfOWVQNTdnSTBTY0FkNWlGNWZwLUZUYjZpeU5JdnNUbjZxWEnSAXNBVV95cUxPYnU5UG9ncGR2YWg4SHpnNUVOT2FCRUNvNkh5SFRSZXJVd1o0aXJkVTFlZjlzLUo3OW9nU1U3c0t4SVBhbGlXVXExZGhMVlowdGptS3J6OUtuWTdrSjFLNnZvUFFPR0Jmc2lYWEFyVnI1b3Q0?oc=5"
+    },
+    {
+      "title": "Yirrama Community Hub Development - City of Greater Geelong",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVhsVkRqSmNoVFhBZDhBb1dmU0lqR3J3RzVhSzRCUHR5T0RONm82OEhwd3kteVcwdzBnTzM2dUVLSEpVZHJLTS1tV3I2S0tlLVVETUVVV0xxRGd0S0ZTeGFQYnp2MkdjYUNrZmJ1d04zSGtRVXFKTG1KUDZva1QwS3NTOFJFTWktYjZhUWdvZXhGLThuaVctNkZ5cjdZZ1ZQSEFZeXF0Z2dYMEtlbnNXb19Nd3pqWXEweDg0OGVoYUh3S1I4ZE9yeGptVFgxSHRzSU9yQ1ZKellPVWFnaHQ2eUpKMVBLb1c5?oc=5",
+      "date": "2026-10-15",
+      "publisher": "City of Greater Geelong",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVhsVkRqSmNoVFhBZDhBb1dmU0lqR3J3RzVhSzRCUHR5T0RONm82OEhwd3kteVcwdzBnTzM2dUVLSEpVZHJLTS1tV3I2S0tlLVVETUVVV0xxRGd0S0ZTeGFQYnp2MkdjYUNrZmJ1d04zSGtRVXFKTG1KUDZva1QwS3NTOFJFTWktYjZhUWdvZXhGLThuaVctNkZ5cjdZZ1ZQSEFZeXF0Z2dYMEtlbnNXb19Nd3pqWXEweDg0OGVoYUh3S1I4ZE9yeGptVFgxSHRzSU9yQ1ZKellPVWFnaHQ2eUpKMVBLb1c5?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVhsVkRqSmNoVFhBZDhBb1dmU0lqR3J3RzVhSzRCUHR5T0RONm82OEhwd3kteVcwdzBnTzM2dUVLSEpVZHJLTS1tV3I2S0tlLVVETUVVV0xxRGd0S0ZTeGFQYnp2MkdjYUNrZmJ1d04zSGtRVXFKTG1KUDZva1QwS3NTOFJFTWktYjZhUWdvZXhGLThuaVctNkZ5cjdZZ1ZQSEFZeXF0Z2dYMEtlbnNXb19Nd3pqWXEweDg0OGVoYUh3S1I4ZE9yeGptVFgxSHRzSU9yQ1ZKellPVWFnaHQ2eUpKMVBLb1c5?oc=5"
+    },
+    {
+      "title": "New Flagstone community hub opens its doors - Logan City Council",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1VJeG1MaDlSZmoweHE0YTRjQTJVQUczRWtzUkhOczNzV3lkVk5FQ0d6SFk1SkdNY1VUa2tfV2g0UktmdXJnV2NUdnA5SVFIejFmQmJaQWExOUxpVkRxVzN2Y1ZWSUNoLUh2cFowTWRXTUNubkdqSl9RNEZPYkVsMUM1V2dyZ1J0ZktmMjRrM1hZWVE?oc=5",
+      "date": "2026-08-12",
+      "publisher": "Logan City Council",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1VJeG1MaDlSZmoweHE0YTRjQTJVQUczRWtzUkhOczNzV3lkVk5FQ0d6SFk1SkdNY1VUa2tfV2g0UktmdXJnV2NUdnA5SVFIejFmQmJaQWExOUxpVkRxVzN2Y1ZWSUNoLUh2cFowTWRXTUNubkdqSl9RNEZPYkVsMUM1V2dyZ1J0ZktmMjRrM1hZWVE?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-10-27T03:48:02.757Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1VJeG1MaDlSZmoweHE0YTRjQTJVQUczRWtzUkhOczNzV3lkVk5FQ0d6SFk1SkdNY1VUa2tfV2g0UktmdXJnV2NUdnA5SVFIejFmQmJaQWExOUxpVkRxVzN2Y1ZWSUNoLUh2cFowTWRXTUNubkdqSl9RNEZPYkVsMUM1V2dyZ1J0ZktmMjRrM1hZWVE?oc=5"
+    },
+    {
+      "title": "14 Youth Social Infrastructure",
+      "url": "https://doi.org/10.56687/9781529241624-017",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-017",
+      "authors": "Luke Billingham",
+      "id": "10.56687/9781529241624-017",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-017"
+    },
+    {
+      "title": "Youth Social Infrastructure",
+      "url": "https://doi.org/10.51952/9781529241624.ch014",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch014",
+      "authors": "Luke Billingham",
+      "id": "10.51952/9781529241624.ch014",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch014"
+    },
+    {
+      "title": "23 Policy Making and Social Infrastructure",
+      "url": "https://doi.org/10.56687/9781529241624-026",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-026",
+      "authors": "Owen Garling",
+      "id": "10.56687/9781529241624-026",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-026"
+    },
+    {
+      "title": "Policy Making and Social Infrastructure",
+      "url": "https://doi.org/10.51952/9781529241624.ch023",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch023",
+      "authors": "Owen Garling",
+      "id": "10.51952/9781529241624.ch023",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch023"
+    },
+    {
+      "title": "24 The Future of Social Infrastructure Research",
+      "url": "https://doi.org/10.56687/9781529241624-027",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-027",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.56687/9781529241624-027",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-027"
+    },
+    {
+      "title": "2 Introducing the Concept of Social Infrastructure",
+      "url": "https://doi.org/10.56687/9781529241624-005",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-005",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.56687/9781529241624-005",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-005"
+    },
+    {
+      "title": "1 Social Infrastructure in Neighbourhoods and Cities",
+      "url": "https://doi.org/10.56687/9781529241624-004",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-004",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.56687/9781529241624-004",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-004"
+    },
+    {
+      "title": "Introducing the Concept of Social Infrastructure",
+      "url": "https://doi.org/10.51952/9781529241624.ch002",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch002",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.51952/9781529241624.ch002",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch002"
+    },
+    {
+      "title": "The Future of Social Infrastructure Research",
+      "url": "https://doi.org/10.51952/9781529241624.ch024",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch024",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.51952/9781529241624.ch024",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch024"
+    },
+    {
+      "title": "Social Infrastructure in Neighbourhoods and Cities",
+      "url": "https://doi.org/10.51952/9781529241624.ch001",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch001",
+      "authors": "Alan Latham, Jack Layton",
+      "id": "10.51952/9781529241624.ch001",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch001"
+    },
+    {
+      "title": "22 Social Infrastructures After Disasters",
+      "url": "https://doi.org/10.56687/9781529241624-025",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-025",
+      "authors": "David Conradson",
+      "id": "10.56687/9781529241624-025",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-025"
+    },
+    {
+      "title": "Social Infrastructures After Disasters",
+      "url": "https://doi.org/10.51952/9781529241624.ch022",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch022",
+      "authors": "David Conradson",
+      "id": "10.51952/9781529241624.ch022",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch022"
+    },
+    {
+      "title": "Social Infrastructure in Neighbourhoods and Cities",
+      "url": "https://doi.org/10.51952/9781529241624",
+      "date": "2026-05-28",
+      "publisher": "Bristol University Press",
+      "abstract": "",
+      "doi": "10.51952/9781529241624",
+      "authors": "",
+      "id": "10.51952/9781529241624",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624"
+    },
+    {
+      "title": "Inside the community, alongside clinical practice: Community music therapy as social infrastructure",
+      "url": "https://doi.org/10.56883/aijmt.2026.704",
+      "date": "2026-09-14",
+      "publisher": "Approaches: An Interdisciplinary Journal of Music Therapy",
+      "abstract": "Welcome to this special issue of Approaches, inspired by the International Music Therapy Conference Resonances: Sounding Communities for Better Living, held in Verona, Italy on 3–4 October 2025. The initiative was organised by the “E. F. Dall’Abaco” Conservatory of Verona in partnership with the University of Verona, the University and Conservatory of Foggia, the University of Bolzano, the University of Molise, and the European University of Rome, and was funded by the Italian Ministry of University and Research (MUR) through the PRO-BEN project (Progetto per la promozione del benessere psicofisico e la prevenzione delle dipendenze patologiche della popolazione studentesca/Project for the Promotion of Students' Physical and Psychological Well-being and the Prevention of Pathological Addictions) of the Ministry of University and Research (2025). The conference aimed to explore and promote Community Music Therapy through the voices of some leading scholars and practitioners advancing this practice and its epistemological framework. The contributions included in this special issue examine the role of music and of the music therapist as a driving force for social change and collective health. At the centre of the discussion lies the concept of “resonance,” understood as a fundamental mode of relationship between the individual and the world, and as a possible antidote to the alienation often produced by contemporary life. From prisons to nursing homes, and through to university settings, the contributions presented here offer a vision of music therapy as a form of “social techn",
+      "doi": "10.56883/aijmt.2026.704",
+      "authors": "Enrico Ceccato, Paolo Alberto Caneva",
+      "id": "10.56883/aijmt.2026.704",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56883/aijmt.2026.704"
+    },
+    {
+      "title": "Building Inclusive Social Infrastructure to Combat Loneliness and Improve Wellbeing",
+      "url": "https://doi.org/10.1257/rct.18454",
+      "date": "2026-05-27",
+      "publisher": "AEA Randomized Controlled Trials",
+      "abstract": "",
+      "doi": "10.1257/rct.18454",
+      "authors": "Vatsal Khandelwal",
+      "id": "10.1257/rct.18454",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "wellbeing"
+      ],
+      "reason": "Matches project interests: wellbeing",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.1257/rct.18454"
+    },
+    {
+      "title": "Building Inclusive Social Infrastructure to Combat Loneliness and Improve Wellbeing",
+      "url": "https://doi.org/10.1257/rct.18454-1.0",
+      "date": "2026-05-27",
+      "publisher": "AEA Randomized Controlled Trials",
+      "abstract": "",
+      "doi": "10.1257/rct.18454-1.0",
+      "authors": "Vatsal Khandelwal",
+      "id": "10.1257/rct.18454-1.0",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "wellbeing"
+      ],
+      "reason": "Matches project interests: wellbeing",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.1257/rct.18454-1.0"
+    },
+    {
+      "title": "The Making, Unmaking and Remaking of Social Infrastructure",
+      "url": "https://doi.org/10.51952/9781529241624.ch018",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.51952/9781529241624.ch018",
+      "authors": "Dimitrios Panayotopoulos-Tsiros, Maeve Blackman, Florence Sutcliffe-Braithwaite",
+      "id": "10.51952/9781529241624.ch018",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.51952/9781529241624.ch018"
+    },
+    {
+      "title": "18 The Making, Unmaking and Remaking of Social Infrastructure",
+      "url": "https://doi.org/10.56687/9781529241624-021",
+      "date": "2026-05-28",
+      "publisher": "Social Infrastructure in Neighbourhoods and Cities",
+      "abstract": "",
+      "doi": "10.56687/9781529241624-021",
+      "authors": "Dimitrios Panayotopoulos-Tsiros, Maeve Blackman, Florence Sutcliffe-Braithwaite",
+      "id": "10.56687/9781529241624-021",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.56687/9781529241624-021"
+    },
+    {
+      "title": "Mosques as Islamic Social Infrastructure for Community Resilience in Tsunami-Prone Padang, Indonesia",
+      "url": "https://doi.org/10.25077/jas.v16i1.184",
+      "date": "2026-06-29",
+      "publisher": "Analisis Sejarah: Mencari Jalan Sejarah",
+      "abstract": "This article examines the potential of mosques to function as Islamic social infrastructure for strengthening community resilience in tsunami-prone coastal Padang, Indonesia. Existing disaster risk reduction strategies in Padang have largely emphasised technical mitigation, early warning systems, evacuation routes, and purpose-built vertical evacuation shelters. However, the limited number and uneven distribution of formal shelters remain critical problems, especially in densely populated coastal areas exposed to short tsunami arrival times. Rather than treating mosques merely as religious buildings or informal refuge spaces, this article repositions them as socially trusted, spatially embedded, and culturally legitimate institutions that can support community-based disaster preparedness. The study employs a qualitative evidence synthesis approach, drawing on secondary spatial data, disaster risk studies, mosque distribution data, and literature on social trust, place attachment, Islamic perspectives on disaster, and community resilience. The findings show that mosques in coastal Padang possess four strategic qualities: spatial proximity to exposed communities, everyday familiarity, moral legitimacy, and institutional capacity for collective coordination. By integrating these qualities into disaster planning, mosques can become community-based nodes of preparedness, evacuation, communication, and post-disaster support. This article contributes to disaster risk reduction and Islamic social studies by developing the concept of mosque-based Islamic social infrastructure as a c",
+      "doi": "10.25077/jas.v16i1.184",
+      "authors": "Yenny Narny",
+      "id": "10.25077/jas.v16i1.184",
+      "project": "hubs",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "trust"
+      ],
+      "reason": "Matches project interests: trust",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-10-27T03:48:04.998Z",
+      "key": "hubs|10.25077/jas.v16i1.184"
     }
   ],
   "checks": [
@@ -1713,7 +3153,7 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:44:24.666Z"
+      "checkedAt": "2026-10-27T03:47:58.406Z"
     },
     {
       "project": "space",
@@ -1734,16 +3174,11 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:44:25.028Z"
+      "checkedAt": "2026-10-27T03:48:00.015Z"
     },
     {
       "project": "autonomous",
       "checks": [
-        {
-          "source": "Crossref",
-          "ok": false,
-          "error": "HTTP 429"
-        },
         {
           "source": "Google News · practice discovery",
           "ok": true,
@@ -1752,12 +3187,38 @@
         {
           "source": "Google News · project discovery",
           "ok": true,
-          "count": 1
+          "count": 0
+        },
+        {
+          "source": "Crossref",
+          "ok": true,
+          "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:44:25.351Z"
+      "checkedAt": "2026-10-27T03:48:02.286Z"
+    },
+    {
+      "project": "hubs",
+      "checks": [
+        {
+          "source": "Google News · practice discovery",
+          "ok": true,
+          "count": 25
+        },
+        {
+          "source": "Google News · project discovery",
+          "ok": true,
+          "count": 25
+        },
+        {
+          "source": "Crossref",
+          "ok": true,
+          "count": 100
+        }
+      ],
+      "checkedAt": "2026-10-27T03:48:04.998Z"
     }
   ],
-  "generatedAt": "2026-10-27T03:44:25.351Z",
+  "generatedAt": "2026-10-27T03:48:04.998Z",
   "liveAttempted": true
 }
