@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "id": "heat",
+      "name": "Urban Heat",
+      "description": "Staying Cool + Climate Resilient Citizenry",
+      "focus": "Equitable heat adaptation, low-income households, community interventions, lived experience and climate action.",
+      "query": "urban heat community adaptation",
+      "terms": "heat,thermal,cooling,adaptation,vulnerable,household,behaviour,community,resilience",
+      "links": [
+        "https://www.sutd.edu.sg/lkycic/research-project-listing/staying-cool-strengthening-the-heat-resilience-of-vulnerable-communities/",
+        "https://www.sutd.edu.sg/lkycic/research-project-listing/leveraging-shared-experience-of-urban-heat-and-bridging-spatial-temporal-dissonance-towards-a-climate-resilient-citizenry-in-singapore/"
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Public Space",
+      "description": "Design Good Public Spaces",
+      "focus": "Inclusive design and programming, social connection, biopsychosocial outcomes, citizen science, VR and generative design.",
+      "query": "public space urban design social interaction",
+      "terms": "public space,placemaking,inclusive,social,community,wellbeing,citizen science,virtual reality,generative,programming",
+      "links": [
+        "https://www.sutd.edu.sg/lkycic/research-project-listing/design-good-public-spaces/"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "project": "heat",
+      "type": "Practice",
+      "title": "Cool Cities Lab: neighbourhood-scale heat assessment and cooling interventions",
+      "url": "https://www.wri.org/data/cool-cities-lab",
+      "date": "2026-03-17",
+      "publisher": "World Resources Institute",
+      "reason": "Compare targeted cooling options and vulnerability mapping with Staying Cool fieldwork.",
+      "id": "https://www.wri.org/data/cool-cities-lab",
+      "key": "heat|https://www.wri.org/data/cool-cities-lab",
+      "source": "Curated starting lead",
+      "score": 65,
+      "abstract": "",
+      "evidence": "Curated source lead, checked 27 October 2026. Relevance is an editorial suggestion; verify full source and publication status.",
+      "seen": "2026-10-27",
+      "matches": []
+    },
+    {
+      "project": "heat",
+      "type": "Public project",
+      "title": "C40 Cool Cities Accelerator",
+      "url": "https://www.c40.org/accelerators/cool-cities/",
+      "date": "",
+      "publisher": "C40 Cities",
+      "reason": "Follow municipal commitments and equity-focused cooling implementation as potential comparison cases.",
+      "id": "https://www.c40.org/accelerators/cool-cities/",
+      "key": "heat|https://www.c40.org/accelerators/cool-cities/",
+      "source": "Curated starting lead",
+      "score": 65,
+      "abstract": "",
+      "evidence": "Curated source lead, checked 27 October 2026. Relevance is an editorial suggestion; verify full source and publication status.",
+      "seen": "2026-10-27",
+      "matches": []
+    },
+    {
+      "project": "space",
+      "type": "Public project",
+      "title": "Global Public Space Programme",
+      "url": "https://unhabitat.org/programme/global-public-space-programme",
+      "date": "",
+      "publisher": "UN-Habitat",
+      "reason": "Track participatory public-space delivery, local ownership and implementation partners.",
+      "id": "https://unhabitat.org/programme/global-public-space-programme",
+      "key": "space|https://unhabitat.org/programme/global-public-space-programme",
+      "source": "Curated starting lead",
+      "score": 65,
+      "abstract": "",
+      "evidence": "Curated source lead, checked 27 October 2026. Relevance is an editorial suggestion; verify full source and publication status.",
+      "seen": "2026-10-27",
+      "matches": []
+    },
+    {
+      "project": "space",
+      "type": "Academic publication",
+      "title": "UN-Habitat and its Public Space Mandate: From Programme to Network",
+      "url": "https://www.journalpublicspace.org/index.php/jps/article/view/1910",
+      "date": "2026",
+      "publisher": "The Journal of Public Space",
+      "reason": "Review programme-to-network governance for Design Good Public Spaces partnerships and translation.",
+      "id": "https://www.journalpublicspace.org/index.php/jps/article/view/1910",
+      "key": "space|https://www.journalpublicspace.org/index.php/jps/article/view/1910",
+      "source": "Curated starting lead",
+      "score": 65,
+      "abstract": "",
+      "evidence": "Curated source lead, checked 27 October 2026. Relevance is an editorial suggestion; verify full source and publication status.",
+      "seen": "2026-10-27",
+      "matches": []
+    },
+    {
+      "project": "heat",
+      "type": "Academic publication",
+      "title": "Thermal comfort in climate action plans of C40 cities across the global north and south",
+      "url": "https://link.springer.com/article/10.1007/s44327-026-00266-4",
+      "date": "2026",
+      "publisher": "Discover Cities",
+      "reason": "Compare how thermal comfort and socially embedded cooling enter municipal climate plans.",
+      "id": "https://link.springer.com/article/10.1007/s44327-026-00266-4",
+      "key": "heat|https://link.springer.com/article/10.1007/s44327-026-00266-4",
+      "source": "Curated starting lead",
+      "score": 65,
+      "abstract": "",
+      "evidence": "Curated source lead, checked 27 October 2026. Relevance is an editorial suggestion; verify full source and publication status.",
+      "seen": "2026-10-27",
+      "matches": []
+    }
+  ],
+  "checks": [],
+  "generatedAt": "2026-10-27T02:57:52.829Z",
+  "liveAttempted": false
+}
