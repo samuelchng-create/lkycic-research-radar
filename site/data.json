@@ -111,25 +111,6 @@
       "matches": []
     },
     {
-      "title": "Urban heat islands make the impacts of excessive heat worse - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jeERMT3pzZW1QdmJDOU9jWHBidzNfTUhicHpkWFlTVDJBQ3hXNV95RDhadW9pak50c2lhWTFGaUs2MGR6czdaQTRSbDNXWjhHSExQb095UHBDc2d2d1NVUU1qTlRfRjg?oc=5",
-      "date": "2023-07-27",
-      "publisher": "PBS",
-      "abstract": "",
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jeERMT3pzZW1QdmJDOU9jWHBidzNfTUhicHpkWFlTVDJBQ3hXNV95RDhadW9pak50c2lhWTFGaUs2MGR6czdaQTRSbDNXWjhHSExQb095UHBDc2d2d1NVUU1qTlRfRjg?oc=5",
-      "project": "heat",
-      "type": "Public project",
-      "source": "Google News · project discovery",
-      "score": 35,
-      "matches": [
-        "heat"
-      ],
-      "reason": "Matches project interests: heat",
-      "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-10-27T03:13:53.497Z",
-      "key": "heat|https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jeERMT3pzZW1QdmJDOU9jWHBidzNfTUhicHpkWFlTVDJBQ3hXNV95RDhadW9pak50c2lhWTFGaUs2MGR6czdaQTRSbDNXWjhHSExQb095UHBDc2d2d1NVUU1qTlRfRjg?oc=5"
-    },
-    {
       "title": "Evaluating urban heat adaptation strategies for extreme heatwaves in complex terrain: A case study of Grenoble, France",
       "url": "https://doi.org/10.1016/j.uclim.2026.103059",
       "date": "2026-09",
@@ -148,7 +129,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.103059"
     },
     {
@@ -170,7 +151,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s42087-026-00674-3"
     },
     {
@@ -193,7 +174,7 @@
       ],
       "reason": "Matches project interests: heat, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.5194/ems2026-534"
     },
     {
@@ -215,7 +196,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s43621-026-04684-7"
     },
     {
@@ -237,7 +218,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.jeem.2026.103299"
     },
     {
@@ -259,7 +240,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1061/9780784487006.070"
     },
     {
@@ -281,7 +262,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.102881"
     },
     {
@@ -302,7 +283,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.59877/cxoh7334"
     },
     {
@@ -324,7 +305,7 @@
       ],
       "reason": "Matches project interests: heat, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.66506/essp.122"
     },
     {
@@ -346,7 +327,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s44327-026-00319-8"
     },
     {
@@ -369,7 +350,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.102905"
     },
     {
@@ -391,7 +372,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1038/s42949-026-00441-x"
     },
     {
@@ -413,7 +394,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.scs.2026.107298"
     },
     {
@@ -434,7 +415,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1201/9781032636948-7"
     },
     {
@@ -459,7 +440,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, household, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.3390/app16157742"
     },
     {
@@ -483,7 +464,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s12273-026-1454-8"
     },
     {
@@ -505,7 +486,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s41207-026-01201-0"
     },
     {
@@ -531,7 +512,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation, vulnerable, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s11524-026-01096-w"
     },
     {
@@ -552,7 +533,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.102945"
     },
     {
@@ -574,7 +555,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.68065/joccd.05.01.118"
     },
     {
@@ -596,7 +577,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1080/01944363.2026.2695381"
     },
     {
@@ -620,7 +601,7 @@
       ],
       "reason": "Matches project interests: heat, cooling, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s44327-026-00273-5"
     },
     {
@@ -641,7 +622,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.22541/essoar.15010392/v1"
     },
     {
@@ -665,7 +646,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/s41207-026-01162-4"
     },
     {
@@ -687,7 +668,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1080/19475705.2026.2729651"
     },
     {
@@ -708,7 +689,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.103087"
     },
     {
@@ -730,7 +711,7 @@
       ],
       "reason": "Matches project interests: heat, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.ufug.2026.129565"
     },
     {
@@ -752,7 +733,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1007/978-3-032-30527-5_27"
     },
     {
@@ -774,7 +755,7 @@
       ],
       "reason": "Matches project interests: heat, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.438Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.31235/osf.io/72h5v_v1"
     },
     {
@@ -795,7 +776,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.64822/jrusd.v2i1.42"
     },
     {
@@ -816,7 +797,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.uclim.2026.103123"
     },
     {
@@ -839,7 +820,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.1016/j.scs.2026.107289"
     },
     {
@@ -862,7 +843,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.3389/fclim.2026.1873994"
     },
     {
@@ -886,7 +867,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.3390/atmos17050470"
     },
     {
@@ -907,7 +888,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-10-27T03:13:54.439Z",
+      "seen": "2026-10-27T03:14:55.279Z",
       "key": "heat|10.36334/modsim2025.g06.imran"
     },
     {
@@ -1688,14 +1669,14 @@
       "project": "heat",
       "checks": [
         {
-          "source": "Google News · project discovery",
-          "ok": true,
-          "count": 2
-        },
-        {
           "source": "Google News · practice discovery",
           "ok": true,
           "count": 0
+        },
+        {
+          "source": "Google News · project discovery",
+          "ok": true,
+          "count": 2
         },
         {
           "source": "Crossref",
@@ -1703,11 +1684,16 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:13:54.439Z"
+      "checkedAt": "2026-10-27T03:14:55.279Z"
     },
     {
       "project": "space",
       "checks": [
+        {
+          "source": "Crossref",
+          "ok": false,
+          "error": "HTTP 429"
+        },
         {
           "source": "Google News · project discovery",
           "ok": true,
@@ -1717,16 +1703,11 @@
           "source": "Google News · practice discovery",
           "ok": true,
           "count": 0
-        },
-        {
-          "source": "Crossref",
-          "ok": true,
-          "count": 100
         }
       ],
-      "checkedAt": "2026-10-27T03:13:54.925Z"
+      "checkedAt": "2026-10-27T03:14:55.644Z"
     }
   ],
-  "generatedAt": "2026-10-27T03:13:54.925Z",
+  "generatedAt": "2026-10-27T03:14:55.644Z",
   "liveAttempted": true
 }
