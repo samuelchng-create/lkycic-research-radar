@@ -1,8 +1,8 @@
 import fs from 'node:fs/promises';
-import {defaults,seeds,scan,html} from '../worker/index.js';
+import {defaults,seeds,scan,html,relevant} from '../worker/index.js';
 const projects=JSON.parse(await fs.readFile('projects.json','utf8'));
 let prior={items:seeds,checks:[]};try{prior=JSON.parse(await fs.readFile('site/data.json','utf8'))}catch{}
-const map=new Map(prior.items.map(i=>[i.project+'|'+i.id,i]));
+const map=new Map(prior.items.filter(i=>i.source==='Curated starting lead'||relevant(i,projects.find(p=>p.id===i.project)||{query:''})).map(i=>[i.project+'|'+i.id,i]));
 const checks=[];
 if(!process.argv.includes('--offline'))for(const p of projects){const result=await scan(p);checks.push({project:p.id,...result,items:undefined});for(const i of result.items){i.key=p.id+'|'+i.id;map.set(i.key,{...map.get(i.key),...i});}}
 await fs.mkdir('site',{recursive:true});
