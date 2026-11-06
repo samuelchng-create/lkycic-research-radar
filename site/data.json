@@ -44,6 +44,26 @@
       "links": [
         "https://www.sutd.edu.sg/lkycic/research-project-listing/impact-of-co-located-community-hubs-on-social-capital-and-community-capacities-evaluation-framework-and-development-of-recommendations/"
       ]
+    },
+    {
+      "id": "just-transition",
+      "name": "Just Transition",
+      "description": "Worker and community impacts of economic and environmental transitions",
+      "focus": "Track labour and social dialogue, job quality, worker displacement, skills and redeployment, social protection, and equitable transitions in transport, energy and other sectors.",
+      "query": "just transition labour workers social dialogue",
+      "newsQuery": "\"just transition\" (workers OR labour OR unions OR reskilling OR \"social protection\")",
+      "terms": "just transition,workers,labour,unions,social dialogue,reskilling,redeployment,job quality,social protection,livelihoods,transport,decarbonisation,equity",
+      "links": []
+    },
+    {
+      "id": "tianjin-eco-city",
+      "name": "Tianjin Eco-City",
+      "description": "Sino-Singapore Tianjin Eco-City research and developments",
+      "focus": "Track planning, governance, low-carbon infrastructure, mobility, public space, liveability, environmental performance and lessons for other cities.",
+      "query": "Sino Singapore Tianjin Eco City",
+      "newsQuery": "(\"Tianjin Eco-City\" OR \"Tianjin Eco City\" OR \"中新天津生态城\")",
+      "terms": "tianjin,eco-city,eco city,中新天津生态城,urban planning,governance,low-carbon,net zero,liveability,mobility,public space,biodiversity,climate resilience",
+      "links": []
     }
   ],
   "items": [
@@ -151,7 +171,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.103059"
     },
     {
@@ -173,7 +193,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s42087-026-00674-3"
     },
     {
@@ -196,7 +216,7 @@
       ],
       "reason": "Matches project interests: heat, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.5194/ems2026-534"
     },
     {
@@ -218,7 +238,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s43621-026-04684-7"
     },
     {
@@ -262,7 +282,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1061/9780784487006.070"
     },
     {
@@ -284,7 +304,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.102881"
     },
     {
@@ -305,7 +325,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.59877/cxoh7334"
     },
     {
@@ -327,7 +347,7 @@
       ],
       "reason": "Matches project interests: heat, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.66506/essp.122"
     },
     {
@@ -349,7 +369,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s44327-026-00319-8"
     },
     {
@@ -372,7 +392,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.102905"
     },
     {
@@ -394,7 +414,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1038/s42949-026-00441-x"
     },
     {
@@ -437,7 +457,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1201/9781032636948-7"
     },
     {
@@ -462,7 +482,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, household, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.3390/app16157742"
     },
     {
@@ -486,7 +506,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s12273-026-1454-8"
     },
     {
@@ -508,7 +528,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s41207-026-01201-0"
     },
     {
@@ -534,7 +554,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, cooling, adaptation, vulnerable, household",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s11524-026-01096-w"
     },
     {
@@ -555,7 +575,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.102945"
     },
     {
@@ -577,7 +597,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.68065/joccd.05.01.118"
     },
     {
@@ -599,7 +619,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1080/01944363.2026.2695381"
     },
     {
@@ -623,7 +643,7 @@
       ],
       "reason": "Matches project interests: heat, cooling, community, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s44327-026-00273-5"
     },
     {
@@ -644,7 +664,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.22541/essoar.15010392/v1"
     },
     {
@@ -668,7 +688,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/s41207-026-01162-4"
     },
     {
@@ -690,7 +710,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1080/19475705.2026.2729651"
     },
     {
@@ -711,7 +731,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.103087"
     },
     {
@@ -733,7 +753,7 @@
       ],
       "reason": "Matches project interests: heat, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.ufug.2026.129565"
     },
     {
@@ -755,7 +775,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1007/978-3-032-30527-5_27"
     },
     {
@@ -777,7 +797,7 @@
       ],
       "reason": "Matches project interests: heat, behaviour",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.31235/osf.io/72h5v_v1"
     },
     {
@@ -798,7 +818,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.64822/jrusd.v2i1.42"
     },
     {
@@ -819,7 +839,7 @@
       ],
       "reason": "Matches project interests: heat",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1016/j.uclim.2026.103123"
     },
     {
@@ -865,7 +885,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.3389/fclim.2026.1873994"
     },
     {
@@ -934,7 +954,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.54691/x3hvsa55"
     },
     {
@@ -956,7 +976,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1016/j.scs.2026.107673"
     },
     {
@@ -977,7 +997,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1080/13574809.2026.2703645"
     },
     {
@@ -999,7 +1019,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.59784/glosains.v7i5.954"
     },
     {
@@ -1021,7 +1041,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1057/s41289-026-00345-3"
     },
     {
@@ -1044,7 +1064,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.20944/preprints202606.1252.v1"
     },
     {
@@ -1066,7 +1086,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.3389/fbuil.2026.1880251"
     },
     {
@@ -1087,7 +1107,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.3390/urbansci10100608"
     },
     {
@@ -1109,7 +1129,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.69913/udj.2026.08.8.2.56"
     },
     {
@@ -1131,7 +1151,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1177/12063312261446163"
     },
     {
@@ -1153,7 +1173,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.20944/preprints202607.0920.v1"
     },
     {
@@ -1174,7 +1194,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.21608/njace.2024.325514.1013"
     },
     {
@@ -1200,7 +1220,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community, wellbeing, programming",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.21203/rs.3.rs-9870890/v1"
     },
     {
@@ -1222,7 +1242,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.69913/udj.2026.08.8.2.274"
     },
     {
@@ -1244,7 +1264,7 @@
       ],
       "reason": "Matches project interests: social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.3389/fpubh.2026.1892114"
     },
     {
@@ -1267,7 +1287,7 @@
       ],
       "reason": "Matches project interests: public space, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.3390/su18125844"
     },
     {
@@ -1288,7 +1308,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1080/01426397.2026.2712901"
     },
     {
@@ -1312,7 +1332,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.32891/jps.v10i2.1880"
     },
     {
@@ -1333,7 +1353,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.32891/jps.v11i1.1888"
     },
     {
@@ -1354,7 +1374,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.3390/urbansci10060332"
     },
     {
@@ -1375,7 +1395,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1080/07360932.2026.2683340"
     },
     {
@@ -1396,7 +1416,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1080/13574809.2026.2726305"
     },
     {
@@ -1418,7 +1438,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.22373/ijes.v4i1.10045"
     },
     {
@@ -1440,7 +1460,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.956Z",
       "key": "space|10.1016/j.apgeog.2026.104097"
     },
     {
@@ -1462,7 +1482,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.21203/rs.3.rs-9560908/v1"
     },
     {
@@ -1485,7 +1505,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.38027/iccaua2026en0130"
     },
     {
@@ -1507,7 +1527,7 @@
       ],
       "reason": "Matches project interests: public space, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.1080/23311886.2026.2683739"
     },
     {
@@ -1529,7 +1549,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.1016/j.cities.2026.107021"
     },
     {
@@ -1548,7 +1568,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.1186/s12889-026-27750-1"
     },
     {
@@ -1571,7 +1591,7 @@
       ],
       "reason": "Matches project interests: public space, placemaking, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.21203/rs.3.rs-10509201/v1"
     },
     {
@@ -1592,7 +1612,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.69913/udj.2026.08.8.2.176"
     },
     {
@@ -1613,7 +1633,7 @@
       ],
       "reason": "Matches project interests: public space",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.4013/sdrj.2025.181.05"
     },
     {
@@ -1636,7 +1656,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.1016/j.ugj.2026.05.004"
     },
     {
@@ -1660,7 +1680,7 @@
       ],
       "reason": "Matches project interests: public space, inclusive, social, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.18502/kss.v11i4.21249"
     },
     {
@@ -1682,7 +1702,7 @@
       ],
       "reason": "Matches project interests: public space, social",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:02.822Z",
+      "seen": "2026-11-06T02:56:50.957Z",
       "key": "space|10.55927/fjas.v5i5.60"
     },
     {
@@ -1723,7 +1743,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1109/icsmartgrid70882.2026.11680696"
     },
     {
@@ -1746,7 +1766,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance, deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.31893/multirev.2026624"
     },
     {
@@ -1765,7 +1785,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.urbmob.2026.100202"
     },
     {
@@ -1787,7 +1807,7 @@
       ],
       "reason": "Matches project interests: acceptance, driver",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.urbmob.2026.100196"
     },
     {
@@ -1808,7 +1828,7 @@
       ],
       "reason": "Matches project interests: safety",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4018/979-8-3373-7785-8.ch010"
     },
     {
@@ -1829,7 +1849,7 @@
       ],
       "reason": "Matches project interests: trust",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1142/9789819831548_0007"
     },
     {
@@ -1848,7 +1868,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1145/3800645.3812927"
     },
     {
@@ -1869,7 +1889,7 @@
       ],
       "reason": "Matches project interests: safety",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4018/979-8-2600-4398-1.ch004"
     },
     {
@@ -1890,7 +1910,7 @@
       ],
       "reason": "Matches project interests: safety",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4018/979-8-3373-7785-8.ch002"
     },
     {
@@ -1911,7 +1931,7 @@
       ],
       "reason": "Matches project interests: deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3390/vehicles8100253"
     },
     {
@@ -1930,7 +1950,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.urbmob.2026.100194"
     },
     {
@@ -1949,7 +1969,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1109/ichms69701.2026.11602403"
     },
     {
@@ -1971,7 +1991,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.tra.2026.105153"
     },
     {
@@ -1990,7 +2010,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1109/iv66570.2026.11624103"
     },
     {
@@ -2009,7 +2029,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4324/9781003781158-28"
     },
     {
@@ -2094,7 +2114,7 @@
       ],
       "reason": "Matches project interests: acceptance, safety, accessibility, equity",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1007/s11116-026-10791-1"
     },
     {
@@ -2116,7 +2136,7 @@
       ],
       "reason": "Matches project interests: acceptance, pilot",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1080/09537325.2026.2677804"
     },
     {
@@ -2139,7 +2159,7 @@
       ],
       "reason": "Matches project interests: safety, transition, deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3390/vehicles8090199"
     },
     {
@@ -2182,7 +2202,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1002/9781394351091.ch04"
     },
     {
@@ -2205,7 +2225,7 @@
       ],
       "reason": "Matches project interests: passenger, safety, driver",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.21203/rs.3.rs-9807732/v1"
     },
     {
@@ -2228,7 +2248,7 @@
       ],
       "reason": "Matches project interests: transition, pilot, deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3390/wevj17070376"
     },
     {
@@ -2249,7 +2269,7 @@
       ],
       "reason": "Matches project interests: safety",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4018/979-8-3373-7785-8.ch007"
     },
     {
@@ -2268,7 +2288,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1007/978-3-032-28319-1_6"
     },
     {
@@ -2312,7 +2332,7 @@
       ],
       "reason": "Matches project interests: trust, safety, public transport",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3389/ffutr.2026.1687363"
     },
     {
@@ -2333,7 +2353,7 @@
       ],
       "reason": "Matches project interests: acceptance",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.tra.2026.105024"
     },
     {
@@ -2352,7 +2372,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1002/9781394426713.fmatter"
     },
     {
@@ -2401,7 +2421,7 @@
       ],
       "reason": "Matches project interests: trust, safety",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1109/codit70676.2026.11630767"
     },
     {
@@ -2424,7 +2444,7 @@
       ],
       "reason": "Matches project interests: trust, safety, policy",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.4018/979-8-3373-7785-8.ch006"
     },
     {
@@ -2462,7 +2482,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.069Z",
+      "seen": "2026-11-06T02:56:55.091Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXpUMzBzWVRnLW9hLVdVN0dWSTh4TkdZOGlWaUtEbHRHejhKWGE1Z2tvNlRhanFPVUd4bHNqWEFLaWc5ZWxMeGNwUzEyS2VJb0xpNzR3NEdTNWw3dXFaU19XN2N3eFpoX1N5a21BcldzSUhSYldCVkVJVVJWNFAxWGlySVlYMU5keE04YXNXS0dKVzJYRG5IRkNJWTFjcENBcHlwN2k2OENVVlNVLVBaaw?oc=5"
     },
     {
@@ -2553,7 +2573,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.069Z",
+      "seen": "2026-11-06T02:56:55.091Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGQ5cE5vaW02bzlQUnJhUDY0d3VLbkVUVzBWc1RhdkFUZC1wRWhualRmT1ZGSmVGaGtGalJWMmVMV2tYUTl0X0RBMTROQXliek1MazMyMW5wTHlWX19SWE15QXdnd09pSXd6V3JoSXJrQU1WN2ZFMWdNTEZ5OG1UVzVwUWNHWDRXUERfQ3c0cERmeDdfdVNGSm5JV3dqNDE5VzRpSnAtbzZhZw?oc=5"
     },
     {
@@ -2610,7 +2630,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGlwN0JYVUNHSHFhUzgxQXpqYkhiVFNoQ0wtekk3LS00TWI4X0J6TTlmOGJBNVkzQTVDbmxtXzNGZDh6blMxRXBXaWZrbzZIRUM2YUxVNzFBSFJpVDNPME5tUjM1aHozamlveDl4bWRtY1A0VUFlRU02M3pPcFlpZHVVU3V1Ums4QTd4R0xGZXhiWDkxbmFTcQ?oc=5"
     },
     {
@@ -2629,7 +2649,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkE0ZS1UaFh6d3I3M2s1UkZDMDVEMXloMW04ejMxNGJQa2o1bEoyOGY2ZGFrWHZ6bEN0VnFFdl9Tc1c3Nld4V0QzeGpxZEZjS0U5UW4wY2JqVFJVUEJuT0l0NnNXNURiUkV6OVZnUjRpblZoRlpGZFdOdTVwbHBLWU1xX0Fyd3NnUHpETnJEMFl0TjhRRzgzWVgzb3pqeW9fSVB0TXVCTHh3c0F1Nm1uYy1ONl9XTmPSAbwBQVVfeXFMT3pmTTdwbE43TW9ZaHNMRENmWld2UERtTElEdTRMLU83UEpkdVZfeV9LZWFhV0h6WUVvdUppcEFYOHVHRHdWZUI3YXhPd3ZQSERWbzdnYVBZOTZnOXhJLThmVENWOTV3eUlQT1QyNE8yRmNwVkd3ODVwNExLVUhjaEM2Yi1NMm1PWl9JcFEzaW9MRzNUQUl4dGdsaUplaG9TYkdCdGxVZUFkaVFjVDZ4QURsUEZGVEJ3Q290anQ?oc=5"
     },
     {
@@ -2648,7 +2668,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3RUTWpXckhDTTBwWFhLMkdwLThjM0dJZU1MNTdjSnp0aEFpWVAzd1NtN090SnRMUFFuUVhmaFVMLXV0WUo5eHBYUmJ6OHRYOVJLUWloMHAxb0cyNEZhTEd6bGFFd29EMGdZc1g3RS0zb3RaMHhzcVgtb1cxelp3cm12ZWlzUFNwaC1NbWdZaWFUQURwb1RscnVNM3hGSXpteTAzVFlBWHRCZ0JMd21r?oc=5"
     },
     {
@@ -2686,7 +2706,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMidEFVX3lxTE5HM1c2RWxYTzYtdkkwSEozQmwzQW9FZ1RtZTRVYXp1MWswbnRLd05WQ3dhZWpZYlNjSS1lbTZmNU9NU0NpVUlGS2RkSC1ZREpfWWlLWG80eFdraS15OFpWNzZvdTViRDZneG0weVFHaHp5REhi?oc=5"
     },
     {
@@ -2705,7 +2725,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUhMdHhzQnZoOFNHX2x1ZEZhZWVJdmN4eE5VNDF3amFwb1FPMzdXYm9QSXlJRG54Yi1EV3Nya29jdUM2dWlIdERFOUhDbk9Wdl9VeDRvSXZsX01jNUVvYlNIN010U1diLU9OQTExVlN4VW1lYzZVWnFhN1FLTmpMeW02bw?oc=5"
     },
     {
@@ -2724,7 +2744,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMic0FVX3lxTE9nRXBxT244Ni0wMzYzUG5zTVNBVG0xa3E5ZG9rWUVlSjN5Y04ydUNrV3AzNWFfd3IxLXVYemJJQThDMGwxM2VqbmcxcWlpUVpfOWVQNTdnSTBTY0FkNWlGNWZwLUZUYjZpeU5JdnNUbjZxWEnSAXNBVV95cUxPYnU5UG9ncGR2YWg4SHpnNUVOT2FCRUNvNkh5SFRSZXJVd1o0aXJkVTFlZjlzLUo3OW9nU1U3c0t4SVBhbGlXVXExZGhMVlowdGptS3J6OUtuWTdrSjFLNnZvUFFPR0Jmc2lYWEFyVnI1b3Q0?oc=5"
     },
     {
@@ -2762,7 +2782,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1VJeG1MaDlSZmoweHE0YTRjQTJVQUczRWtzUkhOczNzV3lkVk5FQ0d6SFk1SkdNY1VUa2tfV2g0UktmdXJnV2NUdnA5SVFIejFmQmJaQWExOUxpVkRxVzN2Y1ZWSUNoLUh2cFowTWRXTUNubkdqSl9RNEZPYkVsMUM1V2dyZ1J0ZktmMjRrM1hZWVE?oc=5"
     },
     {
@@ -2781,7 +2801,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-017"
     },
     {
@@ -2800,7 +2820,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch014"
     },
     {
@@ -2819,7 +2839,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-026"
     },
     {
@@ -2838,7 +2858,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch023"
     },
     {
@@ -2857,7 +2877,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-027"
     },
     {
@@ -2876,7 +2896,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-005"
     },
     {
@@ -2895,7 +2915,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-004"
     },
     {
@@ -2914,7 +2934,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch002"
     },
     {
@@ -2933,7 +2953,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch024"
     },
     {
@@ -2952,7 +2972,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch001"
     },
     {
@@ -2971,7 +2991,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-025"
     },
     {
@@ -2990,7 +3010,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch022"
     },
     {
@@ -3009,7 +3029,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624"
     },
     {
@@ -3028,7 +3048,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56883/aijmt.2026.704"
     },
     {
@@ -3049,7 +3069,7 @@
       ],
       "reason": "Matches project interests: wellbeing",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.1257/rct.18454"
     },
     {
@@ -3070,7 +3090,7 @@
       ],
       "reason": "Matches project interests: wellbeing",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.1257/rct.18454-1.0"
     },
     {
@@ -3089,7 +3109,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.51952/9781529241624.ch018"
     },
     {
@@ -3108,7 +3128,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.56687/9781529241624-021"
     },
     {
@@ -3129,7 +3149,7 @@
       ],
       "reason": "Matches project interests: trust",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:04.562Z",
+      "seen": "2026-11-06T02:56:57.697Z",
       "key": "hubs|10.25077/jas.v16i1.184"
     },
     {
@@ -3155,7 +3175,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, vulnerable, household, behaviour, community",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.21203/rs.3.rs-11314189/v1"
     },
     {
@@ -3199,7 +3219,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation, resilience",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-02T02:34:15.642Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1127/entomologia/4467"
     },
     {
@@ -3222,7 +3242,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance, passenger",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.37394/232024.2026.6.6"
     },
     {
@@ -3243,7 +3263,7 @@
       ],
       "reason": "Matches project interests: deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1109/tsc.2026.3700604"
     },
     {
@@ -3265,7 +3285,7 @@
       ],
       "reason": "Matches project interests: trust, driver",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1007/s11116-026-10789-9"
     },
     {
@@ -3499,7 +3519,7 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.3390/smartcities9110185"
     },
     {
@@ -3556,7 +3576,7 @@
       ],
       "reason": "Matches project interests: community hub",
       "evidence": "Discovery result; confirm details with original publisher",
-      "seen": "2026-11-05T03:31:04.167Z",
+      "seen": "2026-11-06T02:56:55.216Z",
       "key": "hubs|https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazVTMExyWXdHNGRSNGlFcHlXMXF4a1gtLVBNUkFsdDk0ZHk0Z0ZLdDRYRkFPSTY3cURRWm05SDZyZTFXbGxEOGV4UUdxNllpLWVSUm1UZkoyU2Zyb0NjOUZzTlhMajBXY29wTjZfTmpUeEw3bDlLMTZPaFpsdk5qWVFrTndCcE9HNDFNZG9uYkxpYlphQXhoMDB1cmo1Vmp1aW1DTlpYeldMMjgtNi1UbXhON2d0Wm5aMU1n?oc=5"
     },
     {
@@ -3594,7 +3614,7 @@
       "matches": [],
       "reason": "Broad query match; check relevance before using.",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1007/978-3-032-37192-8_86"
     },
     {
@@ -3617,7 +3637,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance, deployment",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3389/ffutr.2026.1838238"
     },
     {
@@ -3639,7 +3659,7 @@
       ],
       "reason": "Matches project interests: heat, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.1201/9781003456360-16"
     },
     {
@@ -3661,7 +3681,7 @@
       ],
       "reason": "Matches project interests: trust, acceptance",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.3389/fpsyg.2026.1917454"
     },
     {
@@ -3701,7 +3721,7 @@
       ],
       "reason": "Matches project interests: acceptance",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:03.713Z",
+      "seen": "2026-11-06T02:56:54.730Z",
       "key": "autonomous|10.1016/j.trf.2026.103813"
     },
     {
@@ -3779,8 +3799,1037 @@
       ],
       "reason": "Matches project interests: heat, thermal, adaptation",
       "evidence": "Bibliographic record; peer-review status unverified",
-      "seen": "2026-11-05T03:31:01.708Z",
+      "seen": "2026-11-06T02:56:47.087Z",
       "key": "heat|10.24912/jm.v30i3.4224"
+    },
+    {
+      "title": "Placer County, UC Davis explore regional science, education and community hub in Tahoe City - Placer County (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NEVpMmxqTnd3SlZjbElrSVhlTTRZZE5YTG9oamJzcExfTEhmanVRNHBINkJFMVdzQlNIYS1FV3QtajBmeVFmVEtycW9ld2J1QzN5V3NITjNKYm1SejlHZTRVOTN5c1VseHdUeTZXVU9zZ1Bz?oc=5",
+      "date": "2026-10-21",
+      "publisher": "Placer County (.gov)",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NEVpMmxqTnd3SlZjbElrSVhlTTRZZE5YTG9oamJzcExfTEhmanVRNHBINkJFMVdzQlNIYS1FV3QtajBmeVFmVEtycW9ld2J1QzN5V3NITjNKYm1SejlHZTRVOTN5c1VseHdUeTZXVU9zZ1Bz?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-11-06T02:56:55.216Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMidEFVX3lxTE92NEVpMmxqTnd3SlZjbElrSVhlTTRZZE5YTG9oamJzcExfTEhmanVRNHBINkJFMVdzQlNIYS1FV3QtajBmeVFmVEtycW9ld2J1QzN5V3NITjNKYm1SejlHZTRVOTN5c1VseHdUeTZXVU9zZ1Bz?oc=5"
+    },
+    {
+      "title": "LGBTQ+ community hub to expand with new venue in city centre - The Argus",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOck5FZUMwbjRHbzhrb0VwTWhvUlgydlF4bU9ia1NPNW1pU3l1c3pObjdaenE3Qm5TQlBENno1M3Y2U21walNlbU5jamx4M25NOG1Nc2JiYUZvN2hkYy1IWkZxb0xWbGVIMjdrdHBLcnNkc0IxcGpGT3p1N3A3cUlCVW9EM0ZLdEprY1BXbENudllybHdfcFp3?oc=5",
+      "date": "2026-11-05",
+      "publisher": "The Argus",
+      "abstract": "",
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOck5FZUMwbjRHbzhrb0VwTWhvUlgydlF4bU9ia1NPNW1pU3l1c3pObjdaenE3Qm5TQlBENno1M3Y2U21walNlbU5jamx4M25NOG1Nc2JiYUZvN2hkYy1IWkZxb0xWbGVIMjdrdHBLcnNkc0IxcGpGT3p1N3A3cUlCVW9EM0ZLdEprY1BXbENudllybHdfcFp3?oc=5",
+      "project": "hubs",
+      "type": "Public project",
+      "source": "Google News · project discovery",
+      "score": 35,
+      "matches": [
+        "community hub"
+      ],
+      "reason": "Matches project interests: community hub",
+      "evidence": "Discovery result; confirm details with original publisher",
+      "seen": "2026-11-06T02:56:55.216Z",
+      "key": "hubs|https://news.google.com/rss/articles/CBMilwFBVV95cUxOck5FZUMwbjRHbzhrb0VwTWhvUlgydlF4bU9ia1NPNW1pU3l1c3pObjdaenE3Qm5TQlBENno1M3Y2U21walNlbU5jamx4M25NOG1Nc2JiYUZvN2hkYy1IWkZxb0xWbGVIMjdrdHBLcnNkc0IxcGpGT3p1N3A3cUlCVW9EM0ZLdEprY1BXbENudllybHdfcFp3?oc=5"
+    },
+    {
+      "title": "Green transformation of the energy sector and the role of industrial relations in Germany: social dialogue and workers’ participation as enabler of just transition but what comes next?",
+      "url": "https://doi.org/10.4337/9781035361786.00010",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00010",
+      "authors": "Eckhard Voss, Katrin Vitols",
+      "id": "10.4337/9781035361786.00010",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "just transition",
+        "workers",
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: just transition, workers, social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00010"
+    },
+    {
+      "title": "Energy transition in Poland: between forceless and forced social dialogue",
+      "url": "https://doi.org/10.4337/9781035361786.00012",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00012",
+      "authors": "Małgorzata Koziarek",
+      "id": "10.4337/9781035361786.00012",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00012"
+    },
+    {
+      "title": "Paths towards a just energy transition: comparative insights on industrial relations and social dialogue in Europe",
+      "url": "https://doi.org/10.4337/9781035361786.00019",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00019",
+      "authors": "Serena Rugiero, Simonetta Bormioli, Samuele Alessandrini",
+      "id": "10.4337/9781035361786.00019",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00019"
+    },
+    {
+      "title": "Just transition in Spain: territorial and sectoral social dialogue promoting worker participation in the energy value chain",
+      "url": "https://doi.org/10.4337/9781035361786.00014",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00014",
+      "authors": "Jesús Cruces Aguilera, Luis de la Fuente Sanz",
+      "id": "10.4337/9781035361786.00014",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "just transition",
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: just transition, social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00014"
+    },
+    {
+      "title": "Governing energy transition in a fragmented landscape: Belgium's social dialogue challenge",
+      "url": "https://doi.org/10.4337/9781035361786.00017",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00017",
+      "authors": "Frédéric Naedenoen, Indira Kuburas, Clémentine Colmont",
+      "id": "10.4337/9781035361786.00017",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00017"
+    },
+    {
+      "title": "Climate Transition and Labour Market Inequalities Among Low‐Skilled Workers: Risks, Exclusions, and Pathways to a Just Transition",
+      "url": "https://doi.org/10.1002/sd.71671",
+      "date": "2026-09-08",
+      "publisher": "Sustainable Development",
+      "abstract": "ABSTRACT The uneven labour‐market consequences of climate transition are now well established; the unresolved question is how decarbonisation is converted into unequal worker trajectories and why policies framed as inclusive repeatedly reach workers unevenly. This critical narrative review, supported by systematic search procedures, synthesises a final corpus of 43 studies and asks: through which theoretical and institutional channels does climate transition generate exclusion among low‐skilled workers, and which policy arrangements can interrupt those channels? The analysis prioritises two causal mechanisms, labour‐market segmentation and skill‐ and task‐biased restructuring, while using just‐transition and eco‐social justice perspectives to evaluate outcomes. The synthesis identifies six connected channels: displacement followed by persistent earnings loss; weak transferability of skills into green‐driven occupations; unequal access to training systems designed around formal and stable employment; wage and job‐quality segmentation within green work; spatial and informal‐economy disadvantage; and weak worker voice in transition governance. These channels are intensified by gender, age, migration status, employment form and place. The review contributes by reframing recurrent ‘implementation gaps’ as structural selection mechanisms that determine who can convert green investment into secure employment. It concludes that a just transition requires coordinated skills policy, income protection, active labour‐market support, enforceable labour standards, worker representation, ",
+      "doi": "10.1002/sd.71671",
+      "authors": "Jacob Kwakye",
+      "id": "10.1002/sd.71671",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 65,
+      "matches": [
+        "just transition",
+        "workers",
+        "labour",
+        "decarbonisation"
+      ],
+      "reason": "Matches project interests: just transition, workers, labour, decarbonisation",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1002/sd.71671"
+    },
+    {
+      "title": "Industrial relations for a just energy transition: an introduction",
+      "url": "https://doi.org/10.4337/9781035361786.00008",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00008",
+      "authors": "Serena Rugiero",
+      "id": "10.4337/9781035361786.00008",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00008"
+    },
+    {
+      "title": "Industrial relations for a just transition: final remarks and policy recommendations",
+      "url": "https://doi.org/10.4337/9781035361786.00020",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00020",
+      "authors": "Serena Rugiero",
+      "id": "10.4337/9781035361786.00020",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00020"
+    },
+    {
+      "title": "Responsible Business Conduct for a Just Transition",
+      "url": "https://doi.org/10.1787/ea041d32-en",
+      "date": "2026-05-20",
+      "publisher": "OECD Publishing",
+      "abstract": "",
+      "doi": "10.1787/ea041d32-en",
+      "authors": "",
+      "id": "10.1787/ea041d32-en",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1787/ea041d32-en"
+    },
+    {
+      "title": "Industrial Relations for a Just Transition",
+      "url": "https://doi.org/10.4337/9781035361786",
+      "date": "2026-09-15",
+      "publisher": "Edward Elgar Publishing",
+      "abstract": "",
+      "doi": "10.4337/9781035361786",
+      "authors": "",
+      "id": "10.4337/9781035361786",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786"
+    },
+    {
+      "title": "Industrial relations in the midst of Italy's energy transition: protecting jobs, governing territorial change and enabling just transition through evolving pathways",
+      "url": "https://doi.org/10.4337/9781035361786.00015",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00015",
+      "authors": "Samuele Alessandrini, Simonetta Bormioli",
+      "id": "10.4337/9781035361786.00015",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00015"
+    },
+    {
+      "title": "The energy sector transformation in Slovakia: national context and case study insights on just transition",
+      "url": "https://doi.org/10.4337/9781035361786.00016",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00016",
+      "authors": "Monika Martišková, Patrik Gažo",
+      "id": "10.4337/9781035361786.00016",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00016"
+    },
+    {
+      "title": "Fiscal Rigidity and Labour Exposure in Indonesia’s Extractive Districts: A Dynamic Panel Analysis of Just Transition Readiness, 2015–2024",
+      "url": "https://doi.org/10.37275/oaijss.v9i4.333",
+      "date": "2026-09-14",
+      "publisher": "Open Access Indonesia Journal of Social Sciences",
+      "abstract": "Background: Indonesia’s net-zero commitment attaches a schedule to the decline of an activity that simultaneously funds district development budgets through derivative revenue sharing and employs a large share of the local workforce, yet the fiscal and labour channels of that exposure have never been estimated on the same subnational units. Objective: To quantify how contractions in natural-resource revenue sharing and in mining value added transmit to district capital expenditure and open unemployment, and to derive a district-resolution just-transition readiness typology. Methods: A balanced panel of 118 extractive-producing Indonesian districts observed annually from 2015 to 2024 (1,180 district-year observations) was drawn from the 514-district national budget frame. Two-way fixed effects with Driscoll–Kraay standard errors and two-step System GMM with the Windmeijer correction were used; precision, long-run multipliers, budget incidence, and a quadrant projection were derived from the archived estimates. Results: A 10% fall in revenue sharing was associated with a 4.78% contraction in capital expenditure (95% CI −5.62 to −3.94; p &lt; 0.001), rising to 7.76% in the long run. Capital expenditure absorbed 35.4% of the shock while constituting 18.2% of spending. Mining contraction was associated with higher unemployment (−0.624; p &lt; 0.001), amplified by extractive concentration and attenuated by educational attainment; however, under an 80% output decline, only 17.8% of the exposed employment would appear in the measured rate. Conclusion: Fiscal exposure is severe and ",
+      "doi": "10.37275/oaijss.v9i4.333",
+      "authors": "Hanifah Yasin, Iqbal Anugerah",
+      "id": "10.37275/oaijss.v9i4.333",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "just transition",
+        "labour"
+      ],
+      "reason": "Matches project interests: just transition, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.37275/oaijss.v9i4.333"
+    },
+    {
+      "title": "Far from a just transition: green transformation of the energy sector in Hungary and the role of industrial relations",
+      "url": "https://doi.org/10.4337/9781035361786.00011",
+      "date": "2026-09-15",
+      "publisher": "Industrial Relations for a Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035361786.00011",
+      "authors": "Pavol Bors, Tibor T. Meszmann",
+      "id": "10.4337/9781035361786.00011",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035361786.00011"
+    },
+    {
+      "title": "‘Just Transitions’: Putting Labour Law to Protect Workers’ Rights in Green Economy Era",
+      "url": "https://doi.org/10.20473/jd.v9i2.83570",
+      "date": "2026-10-21",
+      "publisher": "Jurist-Diction",
+      "abstract": "‘Just transitions’ is an approach to transitioning an economy that depends on fossil energy and environmentally damaging sectors towards a green economy that is environmentally friendly, sustainable, and based on renewable energy. The approach aims to ensure that the economic transition process is carried out fairly without violating the rights of vulnerable communities. So far, labour law and environmental law are running separately, even though they have the same leading actors, namely entrepreneurs (employers) and their companies. The labour law has a strategic position to support the energy transition in the green economy era while protecting workers as vulnerable parties. The labour law can provide for the following provisions: 1) training and re-training for workers whose sectors are affected during the transition period; 2) occupational safety and health management that is integrated with environmental damage protection and workers health; 3) maximizing the use of mandatory employment reporting mechanisms to ensure employer compliance in environmental protection and workers' rights; and 4) the involvement of trade unions in various movements for the planning and implementation of transition policies.",
+      "doi": "10.20473/jd.v9i2.83570",
+      "authors": "Nindry Sulistya Widiastiani",
+      "id": "10.20473/jd.v9i2.83570",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 65,
+      "matches": [
+        "just transition",
+        "workers",
+        "labour",
+        "unions"
+      ],
+      "reason": "Matches project interests: just transition, workers, labour, unions",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.20473/jd.v9i2.83570"
+    },
+    {
+      "title": "The Labour Market in Eastern Wielkopolska during the Just and Energy Transition",
+      "url": "https://doi.org/10.64158/or1vwx39td",
+      "date": "2026-09-15",
+      "publisher": "Wydawnictwo Naukowe FNCE",
+      "abstract": "",
+      "doi": "10.64158/or1vwx39td",
+      "authors": "Michał Rejewski, Maciej Sytek",
+      "id": "10.64158/or1vwx39td",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "labour"
+      ],
+      "reason": "Matches project interests: labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.64158/or1vwx39td"
+    },
+    {
+      "title": "Perspective. An ecological bifurcation needs a renewed social dialogue and new rules on the labour market",
+      "url": "https://doi.org/10.1177/10242589261463893",
+      "date": "2026-08-18",
+      "publisher": "Transfer: European Review of Labour and Research",
+      "abstract": "Summary This article explores the idea that a sustainable commitment to an ecological bifurcation requires that political democracy and an enlarged and renewed social dialogue be harnessed to support it, and that this process needs to be connected to a profound transformation of labour market functioning in Europe. The argument proceeds in three stages. First, we take a theoretical perspective, broadening the discussion by focusing on workers’ ‘real’ freedom, as well as on the old and new forms of scarcity facing our societies. Second, we examine how ecological issues and players are currently being introduced into existing social dialogue, and show that to date this process, while multi-sided and pervasive, has failed to meet the challenge. Finally, we discuss some major transformations that are needed if workers’ emancipation and the ecological bifurcation or transition are to be mutually supportive.",
+      "doi": "10.1177/10242589261463893",
+      "authors": "Bernard Gazier, Frédéric Bruggeman",
+      "id": "10.1177/10242589261463893",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "workers",
+        "labour",
+        "social dialogue"
+      ],
+      "reason": "Matches project interests: workers, labour, social dialogue",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1177/10242589261463893"
+    },
+    {
+      "title": "Law’s Segmentation of Labour: Exploring the Professionalisation of Adult Social Care Workers",
+      "url": "https://doi.org/10.1093/indlaw/dwag028",
+      "date": "2026-08-18",
+      "publisher": "Industrial Law Journal",
+      "abstract": "Abstract Critical scholars have observed law’s role in constituting divisions within the broad pool of labour based on attributed personal characteristics such as gender and race. This article examines the potential segmentation of labour along different lines: that of work sector. Using a case study of regulation implemented in Scotland to professionalise adult social care workers, it asks: how does the sector-specific regulation affect workers? The article explores the issue through an extended constitutive theoretical frame. It presents secondary historical, socio-legal and sociological data of the institutional form of the professional regulation, as well as the regulatory context from which it emerged and now operates. This enables an assessment of the likely constitutive effect of the professional regulation. The argument made is that the professional regulation institutes a range of obligations on adult social care workers but does not fully support the benefits typically thought to result from professionalisation, namely, decent pay and conditions, autonomy and status. It fails to directly address the pre-existing regulatory context that constructs unfavourable outcomes for adult social care work due to sexist views of adult social care workers and their labour and the exacerbation of these by a privatised model of adult social care delivery.",
+      "doi": "10.1093/indlaw/dwag028",
+      "authors": "Emily Rose",
+      "id": "10.1093/indlaw/dwag028",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1093/indlaw/dwag028"
+    },
+    {
+      "title": "Clean Energy Policies and Just Transition for Coal Industry Workers",
+      "url": "https://doi.org/10.58812/wslhr.v4i03.3005",
+      "date": "2026-07-16",
+      "publisher": "West Science Law and Human Rights",
+      "abstract": "Indonesia’s transition toward clean energy represents an important legal and policy response to climate change, environmental degradation, and the pursuit of sustainable development. However, the gradual reduction of coal dependency also creates significant legal and socio-economic challenges for workers and communities whose livelihoods rely on the coal industry. This study aims to examine the adequacy of Indonesia’s legal framework in ensuring a just transition for coal industry workers during the implementation of clean energy policies. The research employs a normative legal method using statutory, conceptual, comparative, and analytical approaches. Primary legal materials consist of constitutional provisions, national legislation, presidential regulations, and international legal instruments related to energy transition, environmental protection, labor rights, and social security. Secondary legal materials include academic journals, books, policy reports, and legal commentaries concerning clean energy governance and just transition. The findings indicate that Indonesia has established a relatively comprehensive legal framework supporting renewable energy development and greenhouse gas emission reduction. Nevertheless, the legal framework governing worker protection during the energy transition remains fragmented and insufficiently integrated. Existing regulations primarily emphasize environmental objectives and renewable energy investment while providing only general labor protection without specifically regulating workforce reskilling, employment transition, income pro",
+      "doi": "10.58812/wslhr.v4i03.3005",
+      "authors": "Indah Dwiprigitaningtias, Rival Pahrijal, Paramita Andiani",
+      "id": "10.58812/wslhr.v4i03.3005",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 65,
+      "matches": [
+        "just transition",
+        "workers",
+        "reskilling",
+        "livelihoods"
+      ],
+      "reason": "Matches project interests: just transition, workers, reskilling, livelihoods",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.58812/wslhr.v4i03.3005"
+    },
+    {
+      "title": "Appraisal of Institutional Framework on Women Workers’ Rights in Nigerian Labour Law",
+      "url": "https://doi.org/10.58806/ijiissh.2026.v3i9n05",
+      "date": "2026-09-19",
+      "publisher": "International Journal of innovative inventions in Social Science and Humanities",
+      "abstract": "Laws put in place some institutions to execute and enforce rights of women workers in Nigeria. The institutions are empowered to fight against discrimination again women in labour matters. The primary sources of information for this study are statutes such as the Constitution of the Federal Republic of Nigeria 1999 (As Amended), Trade Disputes Act 1976, Labour Act 2004, the United Nations Agreements, National Action Plan on Women Peace and Security, National Human Rights Commission (Amendment) Act 2010 and judicial authorities. These are supported by secondary sources of law such as textbooks, journals, magazines, newspapers and websites. It is the finding of this study that the institutions appear not to be proactive in the fight against discrimination against women workers; and that the institutional responses on the fight against discrimination against women in labour matters have been under-utilized.",
+      "doi": "10.58806/ijiissh.2026.v3i9n05",
+      "authors": "Sikiru Akinpelu Adewale, Ipoola Aderemi Binuyo",
+      "id": "10.58806/ijiissh.2026.v3i9n05",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.58806/ijiissh.2026.v3i9n05"
+    },
+    {
+      "title": "When energy transition needs negotiation: How multiple stakeholders communicate for a just transition in China",
+      "url": "https://doi.org/10.1016/j.erss.2026.104896",
+      "date": "2026-09",
+      "publisher": "Energy Research &amp; Social Science",
+      "abstract": "",
+      "doi": "10.1016/j.erss.2026.104896",
+      "authors": "Fanxu Zeng, Xiaotong Chen",
+      "id": "10.1016/j.erss.2026.104896",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1016/j.erss.2026.104896"
+    },
+    {
+      "title": "What does a just transition mean for UK oil and gas workers? Insights from a qualitative study",
+      "url": "https://doi.org/10.1016/j.enpol.2026.115267",
+      "date": "2026-07",
+      "publisher": "Energy Policy",
+      "abstract": "",
+      "doi": "10.1016/j.enpol.2026.115267",
+      "authors": "Kirsty Denyer, Yelena Kalyuzhnova, Tatiana Rowson",
+      "id": "10.1016/j.enpol.2026.115267",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "just transition",
+        "workers"
+      ],
+      "reason": "Matches project interests: just transition, workers",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1016/j.enpol.2026.115267"
+    },
+    {
+      "title": "The Posting of Workers in an Eastern European Labour Market: From Social Dumping to a Multi-Faceted Labour Mobility Instrument",
+      "url": "https://doi.org/10.54667/ceemr.2026.07",
+      "date": "2026-06-30",
+      "publisher": "Central and Eastern European Migration Review",
+      "abstract": "The posting of workers has been fiercely discussed and analysed as a mechanism of social dumping in the Western European labour markets. This paper takes a reverse perspective and analyses the posting of workers in Slovakia as an Eastern European case whereby posting is presented as a multifaceted labour mobility instrument. We combine a review of the national regulatory framework and administrative data with stakeholder interviews to provide a rich account of why and how posting is used by employers and regulated and enforced by public authorities. We show that, while posting is a specific instrument of short-term intra-EU mobility formally enabling the mobility of services, it effectively plays a much wider role, transcending the low-cost competitiveness objective. We argue that the rise and embedding of posting in Slovakia is sustained by a specific regulatory and labour market context which is reliant on a flexible workforce with a weak enforcement of labour rights and characterised by erratic policy changes. Our study illustrates that the divide in the posting literature between sending and receiving countries is becoming outdated because supposed ‘sending’ countries like Slovakia are receiving substantial numbers of posted workers; they are also increasingly posting in a different way to earlier.",
+      "doi": "10.54667/ceemr.2026.07",
+      "authors": "Lucia Kováčová, Lucia Mýtna-Kureková, Ivana Studená",
+      "id": "10.54667/ceemr.2026.07",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.54667/ceemr.2026.07"
+    },
+    {
+      "title": "JUST TRANSITION FROM BELOW: HOW MINEWORKERS IN ZIMBABWE LINK LABOUR RIGHTS TO CLIMATE JUSTICE",
+      "url": "https://doi.org/10.46991/bysu.f/2026.17.1.103",
+      "date": "2026-07-02",
+      "publisher": "Journal of Sociology: Bulletin of Yerevan University",
+      "abstract": "This article examines how mineworkers in Zimbabwe engage with and reshape climate justice debates amid the expansion of extractive industries and the global green transition. Drawing on qualitative research based on semi-structured interviews with mineworkers, trade union officials, and civil society actors, the study explores how experiences of labour exploitation, unsafe working conditions, and environmental degradation shape workers’ understandings of climate justice. The findings indicate that while civil society organisations and policy actors have largely shaped climate justice discourse, mineworkers are articulating claims grounded in everyday struggles and seeking to participate in shaping just transition processes. These claims centre on demands for stronger regulation of labour and environmental standards, more equitable redistribution of mineral wealth, and forms of reparative justice for communities affected by extractivism. Engagement with transnational labour networks further contributes to the emergence of a worker-centred climate justice consciousness linking workplace struggles to broader socio-ecological concerns. By foregrounding worker agency, the article advances a labour-centred perspective on climate justice in the Global South and argues that a just transition must be democratically negotiated, socially redistributive, and historically attentive.",
+      "doi": "10.46991/bysu.f/2026.17.1.103",
+      "authors": "Antonater Choto",
+      "id": "10.46991/bysu.f/2026.17.1.103",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "just transition",
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: just transition, workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.46991/bysu.f/2026.17.1.103"
+    },
+    {
+      "title": "Just Transition as Wellbeing",
+      "url": "https://doi.org/10.4324/9781003488361-2",
+      "date": "2026-05-29",
+      "publisher": "Just Transition and Impact Assessment",
+      "abstract": "",
+      "doi": "10.4324/9781003488361-2",
+      "authors": "Adebayo Majekolagbe",
+      "id": "10.4324/9781003488361-2",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4324/9781003488361-2"
+    },
+    {
+      "title": "The Rule of Law Transition and Internationalization of the “Fengqiao Experience”: A Global Dialogue on Social Governance Innovation",
+      "url": "https://doi.org/10.63336/socflourish.59",
+      "date": "2026-08-27",
+      "publisher": "Social Flourishing",
+      "abstract": "",
+      "doi": "10.63336/socflourish.59",
+      "authors": "Yuhao Li",
+      "id": "10.63336/socflourish.59",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.63336/socflourish.59"
+    },
+    {
+      "title": "Just Transition and Impact Assessment",
+      "url": "https://doi.org/10.4324/9781003488361-3",
+      "date": "2026-05-29",
+      "publisher": "Just Transition and Impact Assessment",
+      "abstract": "",
+      "doi": "10.4324/9781003488361-3",
+      "authors": "Adebayo Majekolagbe",
+      "id": "10.4324/9781003488361-3",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4324/9781003488361-3"
+    },
+    {
+      "title": "A just circular economy transition: An evolutionary institutional perspective",
+      "url": "https://doi.org/10.4337/9781035349043.00007",
+      "date": "2026-06-04",
+      "publisher": "A Research Agenda for Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035349043.00007",
+      "authors": "Benjamin Steuer",
+      "id": "10.4337/9781035349043.00007",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035349043.00007"
+    },
+    {
+      "title": "The Just Transition Impact Assessment Framework",
+      "url": "https://doi.org/10.4324/9781003488361-5",
+      "date": "2026-05-29",
+      "publisher": "Just Transition and Impact Assessment",
+      "abstract": "",
+      "doi": "10.4324/9781003488361-5",
+      "authors": "Adebayo Majekolagbe",
+      "id": "10.4324/9781003488361-5",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4324/9781003488361-5"
+    },
+    {
+      "title": "Labour Trajectories and Working Conditions of Sex Workers in Spain",
+      "url": "https://doi.org/10.1093/sp/jxag047",
+      "date": "2026-09-01",
+      "publisher": "Social Politics: International Studies in Gender, State &amp; Society",
+      "abstract": "Abstract This study examines the labor trajectories and working conditions of sex workers in Spain. Drawing on survey data from 210 participants—primarily women and trans women with prior experience in the formal labor market—the research explores motivations for entering the sex industry, the comparative evaluation of working conditions, and the role of structural inequalities. Findings reveal that participants’ previous employment was often marked by low wages, informal contracts, gender discrimination, and exposure to harassment and violence. In contrast, sex work was frequently described as providing greater income, autonomy, flexibility, and personal agency, despite persistent stigma and legal precariousness. Notably, 87 percent of respondents expressed willingness to formalize their occupation through social security registration if permitted by law. The findings challenge dominant narratives of victimhood, foregrounding the strategic dimension of occupational choice under structural constraint, and advocate for rights-based policy frameworks that recognize sex work as legitimate labor.",
+      "doi": "10.1093/sp/jxag047",
+      "authors": "Carmen Meneses-Falcón, Santiago Urío",
+      "id": "10.1093/sp/jxag047",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.1093/sp/jxag047"
+    },
+    {
+      "title": "Climate Change, Just Transition, and Impact Assessment",
+      "url": "https://doi.org/10.4324/9781003488361-4",
+      "date": "2026-05-29",
+      "publisher": "Just Transition and Impact Assessment",
+      "abstract": "",
+      "doi": "10.4324/9781003488361-4",
+      "authors": "Adebayo Majekolagbe",
+      "id": "10.4324/9781003488361-4",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4324/9781003488361-4"
+    },
+    {
+      "title": "Applying the Just Transition Impact Assessment Framework",
+      "url": "https://doi.org/10.4324/9781003488361-6",
+      "date": "2026-05-29",
+      "publisher": "Just Transition and Impact Assessment",
+      "abstract": "",
+      "doi": "10.4324/9781003488361-6",
+      "authors": "Adebayo Majekolagbe",
+      "id": "10.4324/9781003488361-6",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "just transition"
+      ],
+      "reason": "Matches project interests: just transition",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4324/9781003488361-6"
+    },
+    {
+      "title": "Emily Eaton, Andrew Stevens, and Sean Tucker, eds., Unjust Transition: The Future of Fossil Fuel Workers (Halifax and Winnipeg: Fernwood Publishing, 2024)",
+      "url": "https://doi.org/10.52975/llt.2026v97.031",
+      "date": "2026-05-19",
+      "publisher": "Labour / Le Travail",
+      "abstract": "",
+      "doi": "10.52975/llt.2026v97.031",
+      "authors": "Anna Bettini",
+      "id": "10.52975/llt.2026v97.031",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "just transition",
+        "workers"
+      ],
+      "reason": "Matches project interests: just transition, workers",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.52975/llt.2026v97.031"
+    },
+    {
+      "title": "Legal Certainty of Social Security for Multi-Hotel Casual Workers: A Critical Review of Indonesian Labour Law",
+      "url": "https://doi.org/10.46799/jss.v7i5.1097",
+      "date": "2026-10-20",
+      "publisher": "Journal of Social Science",
+      "abstract": "Fluctuating labor demand in the hospitality industry has encouraged hotels to employ casual workers, including individuals who work for multiple hotels. This employment arrangement creates legal uncertainty regarding social security obligations and the allocation of employer liability. This study aimed to examine the legal status of casual workers, identify the social security obligations of each hotel, and formulate a liability framework to strengthen legal certainty. A normative juridical research method was employed, incorporating statutory and conceptual approaches. Primary legal materials consisted of Indonesian labor and social security laws and regulations, while secondary legal materials included relevant scholarly publications. Legal materials were collected through a literature review and analyzed using qualitative and prescriptive legal analysis. The findings indicated that separate employment relationships arose when the elements of work, wages, and employer instructions were established between a worker and each respective hotel. Consequently, a worker's enrollment in a social security program through one hotel did not automatically exempt other hotels from their statutory obligations. The analysis also identified regulatory ambiguity in allocating health insurance contribution obligations, particularly when minimum wage-based contribution thresholds applied despite the limited number of days worked. To address these issues, the study proposed separate employer registration and compliance with contribution obligations for Work Accident Insurance (Jaminan Kecela",
+      "doi": "10.46799/jss.v7i5.1097",
+      "authors": "Wening Sari, Sugeng Santoso PN",
+      "id": "10.46799/jss.v7i5.1097",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 45,
+      "matches": [
+        "workers",
+        "labour"
+      ],
+      "reason": "Matches project interests: workers, labour",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.46799/jss.v7i5.1097"
+    },
+    {
+      "title": "Just water transition: Equity, sustainability, and vision for the future",
+      "url": "https://doi.org/10.4337/9781035349043.00014",
+      "date": "2026-06-04",
+      "publisher": "A Research Agenda for Just Transition",
+      "abstract": "",
+      "doi": "10.4337/9781035349043.00014",
+      "authors": "Ernestina Ohenewaah Denchie, Kevin Lo",
+      "id": "10.4337/9781035349043.00014",
+      "project": "just-transition",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "equity"
+      ],
+      "reason": "Matches project interests: equity",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:00.659Z",
+      "key": "just-transition|10.4337/9781035349043.00014"
+    },
+    {
+      "title": "The oscillating affects of smart city living: ambivalence and desire in Singapore",
+      "url": "https://doi.org/10.1080/02723638.2026.2744202",
+      "date": "2026-10-22",
+      "publisher": "Urban Geography",
+      "abstract": "",
+      "doi": "10.1080/02723638.2026.2744202",
+      "authors": "Nurul Amillin Hussain",
+      "id": "10.1080/02723638.2026.2744202",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.1080/02723638.2026.2744202"
+    },
+    {
+      "title": "Border Cultural Center: A Practical and Innovative Path for Sino-Russian Artistic Exchange in Heihe, the \"City of Russian Artists\"",
+      "url": "https://doi.org/10.7256/2454-0625.2026.6.80060",
+      "date": "2026-06",
+      "publisher": "Культура и искусство",
+      "abstract": "The subject of this study is the activities of the Heihe Russian Oil Painting Gallery and its key role in Russian-Chinese artistic exchange, as well as the functional purpose and unique value of border cultural hubs in cross-border artistic cooperation. The author examines in detail aspects such as the gallery's history, models of artistic exchange, the structure of cultural industries, and art distribution channels. Particular attention is paid to the mechanisms of innovative development in the field of artistic creativity, the integration of culture and business, and intercultural understanding, as well as to the essence of such concepts as \"local creativity on the border,\" \"artists' mutual aid ecosystem,\" and \"three-dimensional art distribution network.\" The work aims to systematize accumulated experience and identify prospects for the further development of cross-border interaction in the cultural sphere. Modern research methods are used, including a range of general scientific and specialized methods, among which the most important are historical, cultural, sociocultural, and biographical research methods, as well as typological and structural-functional approaches. The main findings of this study include the identification of internal patterns and key conditions for the development of cross-border cultural exchange in border regions. The author's particular contribution to this research is the development of a universal practical model for border towns, which includes mechanisms for regular artistic collaboration, comprehensive cultural value chains for artistic produ",
+      "doi": "10.7256/2454-0625.2026.6.80060",
+      "authors": "Ke Shi",
+      "id": "10.7256/2454-0625.2026.6.80060",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.7256/2454-0625.2026.6.80060"
+    },
+    {
+      "title": "DEVELOPING GUIDELINE TO MANAGE BADMINTON CLUBS FOR UNIVERSITY STUDENTS IN TIANJIN CITY",
+      "url": "https://doi.org/10.67909/jasiw.e264016",
+      "date": "2026-10-23",
+      "publisher": "วารสารวิทยาศาสตร์การกีฬาและนวัตกรรมสุขภาพ กลุ่มมหาวิทยาลัยราชภัฏแห่งประเทศไทย",
+      "abstract": "This research aimed to develop a management guideline for university badminton clubs in Tianjin. Participants were 254 students and 29 badminton teachers from five universities. This research was mixed-method research. The population comprised 770 undergraduate students who were active members of badminton clubs at five leading universities in Tianjin City during the 2025 academic year. 254 students and all 29 teachers were selected as a sample group. The questionnaire was distributed to study the current situation and problems in managing badminton clubs for university students. Quantitative results showed the lowest mean score in organizational structure ( = 1.40) and the highest in insufficient funding ( = 4.75). In addition, in-depth interviews were conducted with seven experts to draft the elements of the guideline. Additionally, a focus group discussion was conducted with twelve experts to formulate the guideline. Finally, a connoisseurship evaluation was carried out with seven experts to verify its content validity, examine its feasibility and practical applicability. In this research, the data were analyzed using mean standard deviation, and content analysis. The results showed that the guideline was organized in 5 aspects as: (1) Planning with 3 elements namely, development objectives, strategic planning, and resource planning; (2) Organizing with 3 elements namely, organizational structure, role and responsibility allocation, and coordination mechanisms; (3) Leading with 3 elements namely, leadership and management, coach leadership development, and student motiva",
+      "doi": "10.67909/jasiw.e264016",
+      "authors": "Wang Siyuhan, Prakit Hongsaenyatham, Ake Girdtempoom",
+      "id": "10.67909/jasiw.e264016",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "tianjin"
+      ],
+      "reason": "Matches project interests: tianjin",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.67909/jasiw.e264016"
+    },
+    {
+      "title": "(Re)presenting Municipal Water: Decolonizing the City in Singapore",
+      "url": "https://doi.org/10.7551/mitpress/15898.003.0015",
+      "date": "2026-06-23",
+      "publisher": "Unwinding Privatization",
+      "abstract": "",
+      "doi": "10.7551/mitpress/15898.003.0015",
+      "authors": "Martha Kaplan",
+      "id": "10.7551/mitpress/15898.003.0015",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.7551/mitpress/15898.003.0015"
+    },
+    {
+      "title": "Participation in the smart city: disability and autonomous public transport in Singapore",
+      "url": "https://doi.org/10.1080/1369118x.2026.2750566",
+      "date": "2026-10-29",
+      "publisher": "Information, Communication &amp; Society",
+      "abstract": "",
+      "doi": "10.1080/1369118x.2026.2750566",
+      "authors": "Wenqi Tan, Shirley S. Ho",
+      "id": "10.1080/1369118x.2026.2750566",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.1080/1369118x.2026.2750566"
+    },
+    {
+      "title": "The Philippines and Singapore: Lagging Country and Successful City State",
+      "url": "https://doi.org/10.1017/9781108766814.021",
+      "date": "2026-07-31",
+      "publisher": "The Economic Growth of Southeast Asia",
+      "abstract": "",
+      "doi": "10.1017/9781108766814.021",
+      "authors": "",
+      "id": "10.1017/9781108766814.021",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.1017/9781108766814.021"
+    },
+    {
+      "title": "The comparative analysis of Sino-Japanese football policies from the perspective of policy instruments",
+      "url": "https://doi.org/10.1371/journal.pone.0354667",
+      "date": "2026-07-29",
+      "publisher": "PLOS One",
+      "abstract": "Football development depends heavily on strong policy support, rendering policy analysis and evaluation of significant practical importance. This study uses Nvivo11 software and the PMC index model to conduct a quantitative comparative analysis of 31 Sino-Japanese football policy texts, focusing on policy instruments, content characteristics, and overall quality. The findings reveal that both countries prioritize football development, social participation, and club construction; China emphasizes campus football, while Japan focuses on elite player development and league performance. PMC evaluation indicates that Chinese policies score higher in system design and institutional capacity, whereas Japan performs better in implementation clarity and community linkage. Both countries share shortcomings in insufficient policy clarity and vague long-term competitive goals. The research results provide empirical evidence for the optimization of Chinese football policies and a reference for drawing on international experience.",
+      "doi": "10.1371/journal.pone.0354667",
+      "authors": "Chuanmin Zhang, Zanying Hu, Huqiang Wei",
+      "id": "10.1371/journal.pone.0354667",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.1371/journal.pone.0354667"
+    },
+    {
+      "title": "Effects of air pollution on heron habitat suitability in Tianjin City: an ensemble modelling approach",
+      "url": "https://doi.org/10.1088/2515-7620/ae8f13",
+      "date": "2026-09-01",
+      "publisher": "Environmental Research Communications",
+      "abstract": "Abstract This study presents the first systematic integration of air pollution variables—PM 2.5 , NO 2 , SO 2 , and O 3 —with conventional environmental predictors (climate, topography, and land use) to assess heron habitat suitability in Tianjin, China. An ensemble modelling framework based on the biomod2 package was applied to five heron species: Pond Heron ( Ardeola bacchus ), Little Egret ( Egretta garzetta ), Great Egret ( Ardea alba ), Night Heron ( Nycticorax nycticorax ), and Middle Egret ( Ardea intermedia ). Incorporating air pollution data significantly improved model prediction accuracy, with area under the curve values increasing by up to 4% and true skill statistic values by up to 11%. Ozone (O 3 ) and sulphur dioxide (SO 2 ) were identified as the dominant constraints on Pond Heron habitat suitability, whereas NO 2 emerged as the primary air pollution predictor for Night Heron, with O 3 and SO 2 also contributing to habitat suitability. Response curve analysis revealed non-linear, species-specific threshold relationships between pollutant concentrations and habitat suitability. These findings establish air pollution as a critical, previously underrepresented determinant of avian habitat quality in urbanizing environments, and provide a scientific basis for integrated conservation strategies coupling pollution control with ecological restoration.",
+      "doi": "10.1088/2515-7620/ae8f13",
+      "authors": "Kumsong Jon, Kumsu Ri, Iljin Pak",
+      "id": "10.1088/2515-7620/ae8f13",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "tianjin"
+      ],
+      "reason": "Matches project interests: tianjin",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.1088/2515-7620/ae8f13"
+    },
+    {
+      "title": "Zeitgeist da cooperação sino-moçambicana em saúde",
+      "url": "https://doi.org/10.31492/2184-2043.rilp2026.49/pp.149-171",
+      "date": "2026-09-29",
+      "publisher": "Revista Internacional em Língua Portuguesa",
+      "abstract": "China is Mozambique’s second-largest cooperation partner, having supported the country’s independence and been the first to recognize it. Despite this historical bond, criticisms persist, particularly regarding the limited transparency of cooperation, its project-based nature, and its partial misalignment with national priorities. In the health sector, these features increase the risk of policy and operational discoordination. This article critically examines Sino-Mozambican cooperation in health. It addresses the research question: to what extent and through which mechanisms does this cooperation contribute to Mozambique’s National Health System, and what structural constraints shape its outcomes? A literature review combined with thematic analysis was conducted using ATLAS.ti. The findings indicate that the relationship has evolved from socialist solidarity to a partnership grounded in trust and mutual benefit. Key areas of cooperation include biennial medical missions, health infrastructure development, training and capacity building, donations of medical equipment and pharmaceuticals, and research collaboration. However, several structural challenges persist, including language barriers, limited transparency, uncertain sustainability, weak Mozambican participation in planning processes, fragmented initiatives, and limited incorporation of locally driven solutions. Overall, the model is likely to endure and is often perceived as less conditional than Western aid frameworks. The study recommends the establishment of robust monitoring mechanisms and stronger integration wi",
+      "doi": "10.31492/2184-2043.rilp2026.49/pp.149-171",
+      "authors": "Edgar Manuel Cambaza",
+      "id": "10.31492/2184-2043.rilp2026.49/pp.149-171",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.31492/2184-2043.rilp2026.49/pp.149-171"
+    },
+    {
+      "title": "Environmental Regulation, Administrative Friction, and Real Estate Development Efficiency: Evidence from New York City, London, and Singapore",
+      "url": "https://doi.org/10.70315/uloap.ulbec.2026.0304002",
+      "date": "2026-10-31",
+      "publisher": "Universal Library of Business and Economics",
+      "abstract": "Environmental regulation is often treated as a scalar constraint on real estate development: stricter rules are assumed to produce slower or more expensive development. This article argues instead that the sustainability–development trade-off depends on regulatory architecture. Using a structured, focused comparison of New York City, London, and Singapore, it separates three channels—environmentally relevant process regulation, substantive performance requirements, and market-based valuation or incentives—and adds regulatory uncertainty as a distinct developer-finance cost. The evidence base combines peer-reviewed research with statutes, adopted planning guidance, agency processing data, and government monitoring reports current through September 14, 2026. The comparison shows that strong environmental requirements can coexist with relatively predictable development when obligations are measurable, established early, and reviewed through coordinated administrative systems. New York combines stringent building-emissions requirements with lengthy discretionary pre-certification for some projects; London layers standardized carbon metrics onto a discretionary planning system; and Singapore combines mandatory standards and Green Mark with centralized administration, digital review, and targeted incentives. The evidence does not support a causal ranking of the three cities, nor does it show that administrative speed is equivalent to environmental performance. Its contribution is instead to distinguish regulatory stringency from administrative friction and to show why delay, unce",
+      "doi": "10.70315/uloap.ulbec.2026.0304002",
+      "authors": "Jennifer Park",
+      "id": "10.70315/uloap.ulbec.2026.0304002",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 25,
+      "matches": [],
+      "reason": "Broad query match; check relevance before using.",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.70315/uloap.ulbec.2026.0304002"
+    },
+    {
+      "title": "From Park Expansion to Networked Urban Green Infrastructure: Governance Linkages in Singapore and Implications for Shanghai",
+      "url": "https://doi.org/10.3390/land15101810",
+      "date": "2026-09-26",
+      "publisher": "Land",
+      "abstract": "Urban green infrastructure (UGI) depends on connections between spatial planning, project delivery and long-term operation. This article develops a conceptual, document-based assessment of those connections using Singapore as a reference case and Shanghai as a prospective application context. Six analytical dimensions organise five governance linkages: planning to project rules; spatial networks to differentiated uses; interagency project delivery; professional stewardship to operational data; and participation to access and care. A source-level mapping makes the distinction between documented arrangements, institutional reports and proposed applications explicit. A 2025 professional study visit supplies contextual background, not interview or outcome data. The Singapore materials describe instruments joining governance functions, but do not establish continuous implementation or causal effects. Shanghai’s publicly released 2026–2030 ecological-space plan contains related commitments whose project-level operation remains untested. Four fit conditions address authority and accountability, spatial and climatic suitability, operating capacity, and public value. An illustrative application to published research on Portland shows how these conditions can structure questions outside Asia without demonstrating successful transfer. The contribution is an auditable heuristic for locating interfaces that require investigation, rather than an evaluation of city performance or a validated model of policy transfer.",
+      "doi": "10.3390/land15101810",
+      "authors": "Jiankang Guo, Yanting Zhang, Wei Yan",
+      "id": "10.3390/land15101810",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 35,
+      "matches": [
+        "governance"
+      ],
+      "reason": "Matches project interests: governance",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.3390/land15101810"
+    },
+    {
+      "title": "SUSTAINABLE URBAN TRANSFORMATION THROUGH ECO-CITY DEVELOPMENT: THEORETICAL FOUNDATIONS AND COMPARATIVE PRACTICAL PERSPECTIVES",
+      "url": "https://doi.org/10.32782/2413-2675/2026-67-9",
+      "date": "2026-08-19",
+      "publisher": "International Humanitarian University Herald Economics and Management",
+      "abstract": "Rapid urbanization, climate change and increasing pressure on urban resources have strengthened the need for integrated models of sustainable urban development. The article examines the eco-city as a multidimensional framework combining environmental protection, economic viability, social inclusion and digital governance. On the basis of a comparative narrative review, the study systematizes the theoretical foundations of eco-city development and summarizes international practices from Masdar, Reykjavik, Melbourne, Singapore, Amsterdam, Copenhagen, Utrecht, Helsinki, Barcelona, Bilbao, Pittsburgh and Boston. The results show that eco-city practice depends on renewable energy, low-emission mobility, resource-efficient infrastructure, smart monitoring, circular economy instruments and participatory urban governance. The article argues that eco-cities should be treated not as fixed models but as adaptive socio-ecological and technological systems whose effectiveness depends on institutional coordination, long-term investment and context-sensitive planning.",
+      "doi": "10.32782/2413-2675/2026-67-9",
+      "authors": "Р.С. Луців",
+      "id": "10.32782/2413-2675/2026-67-9",
+      "project": "tianjin-eco-city",
+      "type": "Academic publication",
+      "source": "Crossref",
+      "score": 55,
+      "matches": [
+        "eco-city",
+        "governance",
+        "mobility"
+      ],
+      "reason": "Matches project interests: eco-city, governance, mobility",
+      "evidence": "Bibliographic record; peer-review status unverified",
+      "seen": "2026-11-06T02:57:03.781Z",
+      "key": "tianjin-eco-city|10.32782/2413-2675/2026-67-9"
     }
   ],
   "checks": [
@@ -3788,12 +4837,12 @@
       "project": "heat",
       "checks": [
         {
-          "source": "Google News · practice discovery",
+          "source": "Google News · project discovery",
           "ok": true,
           "count": 0
         },
         {
-          "source": "Google News · project discovery",
+          "source": "Google News · practice discovery",
           "ok": true,
           "count": 0
         },
@@ -3803,7 +4852,7 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-11-05T03:31:01.708Z"
+      "checkedAt": "2026-11-06T02:56:47.087Z"
     },
     {
       "project": "space",
@@ -3824,18 +4873,18 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-11-05T03:31:02.822Z"
+      "checkedAt": "2026-11-06T02:56:50.957Z"
     },
     {
       "project": "autonomous",
       "checks": [
         {
-          "source": "Google News · practice discovery",
+          "source": "Google News · project discovery",
           "ok": true,
           "count": 0
         },
         {
-          "source": "Google News · project discovery",
+          "source": "Google News · practice discovery",
           "ok": true,
           "count": 0
         },
@@ -3845,7 +4894,7 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-11-05T03:31:03.714Z"
+      "checkedAt": "2026-11-06T02:56:54.730Z"
     },
     {
       "project": "hubs",
@@ -3853,7 +4902,7 @@
         {
           "source": "Google News · practice discovery",
           "ok": true,
-          "count": 20
+          "count": 19
         },
         {
           "source": "Google News · project discovery",
@@ -3866,9 +4915,51 @@
           "count": 100
         }
       ],
-      "checkedAt": "2026-11-05T03:31:04.562Z"
+      "checkedAt": "2026-11-06T02:56:57.697Z"
+    },
+    {
+      "project": "just-transition",
+      "checks": [
+        {
+          "source": "Google News · project discovery",
+          "ok": true,
+          "count": 2
+        },
+        {
+          "source": "Google News · practice discovery",
+          "ok": true,
+          "count": 0
+        },
+        {
+          "source": "Crossref",
+          "ok": true,
+          "count": 100
+        }
+      ],
+      "checkedAt": "2026-11-06T02:57:00.659Z"
+    },
+    {
+      "project": "tianjin-eco-city",
+      "checks": [
+        {
+          "source": "Google News · practice discovery",
+          "ok": true,
+          "count": 0
+        },
+        {
+          "source": "Google News · project discovery",
+          "ok": true,
+          "count": 0
+        },
+        {
+          "source": "Crossref",
+          "ok": true,
+          "count": 100
+        }
+      ],
+      "checkedAt": "2026-11-06T02:57:03.781Z"
     }
   ],
-  "generatedAt": "2026-11-05T03:31:04.563Z",
+  "generatedAt": "2026-11-06T02:57:03.784Z",
   "liveAttempted": true
 }
