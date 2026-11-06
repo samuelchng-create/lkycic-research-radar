@@ -43,5 +43,25 @@
     "links": [
       "https://www.sutd.edu.sg/lkycic/research-project-listing/impact-of-co-located-community-hubs-on-social-capital-and-community-capacities-evaluation-framework-and-development-of-recommendations/"
     ]
+  },
+  {
+    "id": "just-transition",
+    "name": "Just Transition",
+    "description": "Worker and community impacts of economic and environmental transitions",
+    "focus": "Track labour and social dialogue, job quality, worker displacement, skills and redeployment, social protection, and equitable transitions in transport, energy and other sectors.",
+    "query": "just transition labour workers social dialogue",
+    "newsQuery": "\"just transition\" (workers OR labour OR unions OR reskilling OR \"social protection\")",
+    "terms": "just transition,workers,labour,unions,social dialogue,reskilling,redeployment,job quality,social protection,livelihoods,transport,decarbonisation,equity",
+    "links": []
+  },
+  {
+    "id": "tianjin-eco-city",
+    "name": "Tianjin Eco-City",
+    "description": "Sino-Singapore Tianjin Eco-City research and developments",
+    "focus": "Track planning, governance, low-carbon infrastructure, mobility, public space, liveability, environmental performance and lessons for other cities.",
+    "query": "Sino Singapore Tianjin Eco City",
+    "newsQuery": "(\"Tianjin Eco-City\" OR \"Tianjin Eco City\" OR \"中新天津生态城\")",
+    "terms": "tianjin,eco-city,eco city,中新天津生态城,urban planning,governance,low-carbon,net zero,liveability,mobility,public space,biodiversity,climate resilience",
+    "links": []
   }
 ]
